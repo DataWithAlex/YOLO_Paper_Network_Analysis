@@ -1,0 +1,1870 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-09-20">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="url" type="string" />
+      <attribute id="1" title="title" type="string" />
+      <attribute id="2" title="authors" type="string" />
+      <attribute id="3" title="year" type="string" />
+      <attribute id="4" title="cited_by" type="long" />
+      <attribute id="5" title="cited_by_url" type="string" />
+      <attribute id="6" title="modularity" type="long" />
+    </attributes>
+    <nodes>
+      <node id="7522504961268153944" label="Transformers in vision: A survey">
+        <attvalues>
+          <attvalue for="0" value="https://dl.acm.org/doi/abs/10.1145/3505244" />
+          <attvalue for="1" value="Transformers in vision: A survey" />
+          <attvalue for="2" value="S Khan, M Naseer, M Hayat, SW Zamir…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="1277" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=7522504961268153944&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="7" />
+        </attvalues>
+      </node>
+      <node id="6382612685700818764" label="You only look once: Unified, real-time object detection">
+        <attvalues>
+          <attvalue for="1" value="You only look once: Unified, real-time object detection" />
+          <attvalue for="4" value="38962" />
+          <attvalue for="6" value="7" />
+        </attvalues>
+      </node>
+      <node id="15456065911372617945" label="Attention mechanisms in computer vision: A survey">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/article/10.1007/s41095-022-0271-y" />
+          <attvalue for="1" value="Attention mechanisms in computer vision: A survey" />
+          <attvalue for="2" value="MH Guo, TX Xu, JJ Liu, ZN Liu, PT Jiang, TJ Mu…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="606" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=15456065911372617945&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="982391967541643955" label="Transformers in medical imaging: A survey">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S1361841523000634" />
+          <attvalue for="1" value="Transformers in medical imaging: A survey" />
+          <attvalue for="2" value="F Shamshad, S Khan, SW Zamir, MH Khan…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="179" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=982391967541643955&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="2452866517197292093" label="A comprehensive survey on pretrained foundation models: A history from bert to chatgpt">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2302.09419" />
+          <attvalue for="1" value="A comprehensive survey on pretrained foundation models: A history from bert to chatgpt" />
+          <attvalue for="2" value="C Zhou, Q Li, C Li, J Yu, Y Liu, G Wang…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="109" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=2452866517197292093&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="4773463079530656035" label="Visual attention network">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/article/10.1007/s41095-023-0364-2" />
+          <attvalue for="1" value="Visual attention network" />
+          <attvalue for="2" value="MH Guo, CZ Lu, ZN Liu, MM Cheng, SM Hu" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="235" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=4773463079530656035&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="761718241536208511" label="Segnext: Rethinking convolutional attention design for semantic segmentation">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2022/hash/08050f40fff41616ccfc3080e60a301a-Abstract-Conference.html" />
+          <attvalue for="1" value="Segnext: Rethinking convolutional attention design for semantic segmentation" />
+          <attvalue for="2" value="MH Guo, CZ Lu, Q Hou, Z Liu…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="113" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=761718241536208511&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="7104781172538541114" label="YOLOv5-Tassel: Detecting tassels in RGB UAV imagery with improved YOLOv5 based on transfer learning">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9889182/" />
+          <attvalue for="1" value="YOLOv5-Tassel: Detecting tassels in RGB UAV imagery with improved YOLOv5 based on transfer learning" />
+          <attvalue for="2" value="W Liu, K Quijano, MM Crawford" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="115" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=7104781172538541114&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="6491078858607146383" label="Towards an end-to-end framework for flow-guided video inpainting">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Li_Towards_an_End-to-End_Framework_for_Flow-Guided_Video_Inpainting_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Towards an end-to-end framework for flow-guided video inpainting" />
+          <attvalue for="2" value="Z Li, CZ Lu, J Qin, CL Guo…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="43" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=6491078858607146383&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="11978445553624214380" label="ISNet: Towards improving separability for remote sensing image change detection">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9772654/" />
+          <attvalue for="1" value="ISNet: Towards improving separability for remote sensing image change detection" />
+          <attvalue for="2" value="G Cheng, G Wang, J Han" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="37" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=11978445553624214380&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="5228146784334715443" label="Diagnosis of brain diseases in fusion of neuroimaging modalities using deep learning: A review">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S1566253522002573" />
+          <attvalue for="1" value="Diagnosis of brain diseases in fusion of neuroimaging modalities using deep learning: A review" />
+          <attvalue for="2" value="A Shoeibi, M Khodatars, M Jafari, N Ghassemi…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="21" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=5228146784334715443&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="9099615620722636165" label="Swin-transformer-enabled YOLOv5 with attention mechanism for small object detection on satellite images">
+        <attvalues>
+          <attvalue for="0" value="https://www.mdpi.com/2072-4292/14/12/2861" />
+          <attvalue for="1" value="Swin-transformer-enabled YOLOv5 with attention mechanism for small object detection on satellite images" />
+          <attvalue for="2" value="H Gong, T Mu, Q Li, H Dai, C Li, Z He, W Wang, F Han…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="51" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9099615620722636165&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="10884589459641707712" label="Beyond self-attention: External attention using two linear layers for visual tasks">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9912362/" />
+          <attvalue for="1" value="Beyond self-attention: External attention using two linear layers for visual tasks" />
+          <attvalue for="2" value="MH Guo, ZN Liu, TJ Mu, SM Hu" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="264" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=10884589459641707712&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="16262241741810610288" label="Deep learning for reconstructing protein structures from cryo-EM density maps: Recent advances and future directions">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S0959440X23000106" />
+          <attvalue for="1" value="Deep learning for reconstructing protein structures from cryo-EM density maps: Recent advances and future directions" />
+          <attvalue for="2" value="N Giri, RS Roy, J Cheng" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="12" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=16262241741810610288&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="17062002127391260256" label="A unified multiscale learning framework for hyperspectral image classification">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9701344/" />
+          <attvalue for="1" value="A unified multiscale learning framework for hyperspectral image classification" />
+          <attvalue for="2" value="X Wang, K Tan, P Du, C Pan…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="26" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=17062002127391260256&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="2492869366552030070" label="Braingb: A benchmark for brain network analysis with graph neural networks">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9933896/" />
+          <attvalue for="1" value="Braingb: A benchmark for brain network analysis with graph neural networks" />
+          <attvalue for="2" value="H Cui, W Dai, Y Zhu, X Kan, AAC Gu…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="29" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=2492869366552030070&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="2308320307881605474" label="Attention-based deep meta-transfer learning for few-shot fine-grained fault diagnosis">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S0950705123000953" />
+          <attvalue for="1" value="Attention-based deep meta-transfer learning for few-shot fine-grained fault diagnosis" />
+          <attvalue for="2" value="C Li, S Li, H Wang, F Gu, AD Ball" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="15" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=2308320307881605474&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="28694845113345021" label="Study of the automatic recognition of landslides by using InSAR images and the improved mask R-CNN model in the Eastern Tibet Plateau">
+        <attvalues>
+          <attvalue for="0" value="https://www.mdpi.com/2072-4292/14/14/3362" />
+          <attvalue for="1" value="Study of the automatic recognition of landslides by using InSAR images and the improved mask R-CNN model in the Eastern Tibet Plateau" />
+          <attvalue for="2" value="Y Liu, X Yao, Z Gu, Z Zhou, X Liu, X Chen, S Wei" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="16" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=28694845113345021&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="9917302194767651380" label="An improved apple object detection method based on lightweight YOLOv4 in complex backgrounds">
+        <attvalues>
+          <attvalue for="0" value="https://www.mdpi.com/2072-4292/14/17/4150" />
+          <attvalue for="1" value="An improved apple object detection method based on lightweight YOLOv4 in complex backgrounds" />
+          <attvalue for="2" value="C Zhang, F Kang, Y Wang" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="19" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9917302194767651380&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="8402450993508627791" label="Large-scale multi-modal pre-trained models: A comprehensive survey">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/article/10.1007/s11633-022-1410-8" />
+          <attvalue for="1" value="Large-scale multi-modal pre-trained models: A comprehensive survey" />
+          <attvalue for="2" value="X Wang, G Chen, G Qian, P Gao, XY Wei…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="18" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=8402450993508627791&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="17059844040400317816" label="YOLOv5-Fog: A multiobjective visual detection algorithm for fog driving scenes based on improved YOLOv5">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9851677/" />
+          <attvalue for="1" value="YOLOv5-Fog: A multiobjective visual detection algorithm for fog driving scenes based on improved YOLOv5" />
+          <attvalue for="2" value="H Wang, Y Xu, Y He, Y Cai, L Chen, Y Li…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="20" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=17059844040400317816&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="1609101033275109223" label="AGs-Unet: Building Extraction Model for High Resolution Remote Sensing Images Based on Attention Gates U Network">
+        <attvalues>
+          <attvalue for="0" value="https://www.mdpi.com/1424-8220/22/8/2932" />
+          <attvalue for="1" value="AGs-Unet: Building Extraction Model for High Resolution Remote Sensing Images Based on Attention Gates U Network" />
+          <attvalue for="2" value="M Yu, X Chen, W Zhang, Y Liu" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="17" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=1609101033275109223&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="9226375279866402413" label="Generating transferable adversarial examples against vision transformers">
+        <attvalues>
+          <attvalue for="0" value="https://dl.acm.org/doi/abs/10.1145/3503161.3547989" />
+          <attvalue for="1" value="Generating transferable adversarial examples against vision transformers" />
+          <attvalue for="2" value="Y Wang, J Wang, Z Yin, R Gong, J Wang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9226375279866402413&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="7749897961068121501" label="A survey of transformers">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S2666651022000146" />
+          <attvalue for="1" value="A survey of transformers" />
+          <attvalue for="2" value="T Lin, Y Wang, X Liu, X Qiu" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="477" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=7749897961068121501&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="1539076789580815483" label="Pre-trained models for natural language processing: A survey">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/article/10.1007/s11431-020-1647-3" />
+          <attvalue for="1" value="Pre-trained models for natural language processing: A survey" />
+          <attvalue for="2" value="X Qiu, T Sun, Y Xu, Y Shao, N Dai, X Huang" />
+          <attvalue for="3" value="2020" />
+          <attvalue for="4" value="1177" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=1539076789580815483&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="966567457136989804" label="Pre-trained models: Past, present and future">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S2666651021000231" />
+          <attvalue for="1" value="Pre-trained models: Past, present and future" />
+          <attvalue for="2" value="X Han, Z Zhang, N Ding, Y Gu, X Liu, Y Huo, J Qiu…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="360" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=966567457136989804&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="10761248177036470713" label="Multimodal learning with transformers: A survey">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/10123038/" />
+          <attvalue for="1" value="Multimodal learning with transformers: A survey" />
+          <attvalue for="2" value="P Xu, X Zhu, DA Clifton" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="107" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=10761248177036470713&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="14136709172791920331" label="A survey of visual transformers">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/10088164/" />
+          <attvalue for="1" value="A survey of visual transformers" />
+          <attvalue for="2" value="Y Liu, Y Zhang, Y Wang, F Hou, J Yuan…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="104" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=14136709172791920331&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="13597902966753793310" label="Recent advances in deep learning based dialogue systems: A systematic survey">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/article/10.1007/s10462-022-10248-8" />
+          <attvalue for="1" value="Recent advances in deep learning based dialogue systems: A systematic survey" />
+          <attvalue for="2" value="J Ni, T Young, V Pandelea, F Xue…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="121" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=13597902966753793310&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="4431578198915484435" label="Ammus: A survey of transformer-based pretrained models in natural language processing">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2108.05542" />
+          <attvalue for="1" value="Ammus: A survey of transformer-based pretrained models in natural language processing" />
+          <attvalue for="2" value="KS Kalyan, A Rajasekharan, S Sangeetha" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="141" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=4431578198915484435&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="2600515932282922845" label="ChatGPT: Jack of all trades, master of none">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S156625352300177X" />
+          <attvalue for="1" value="ChatGPT: Jack of all trades, master of none" />
+          <attvalue for="2" value="J Kocoń, I Cichecki, O Kaszyca, M Kochanek, D Szydło…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="63" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=2600515932282922845&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="8053588590478703627" label="Physformer: Facial video-based physiological measurement with temporal difference transformer">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Yu_PhysFormer_Facial_Video-Based_Physiological_Measurement_With_Temporal_Difference_Transformer_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Physformer: Facial video-based physiological measurement with temporal difference transformer" />
+          <attvalue for="2" value="Z Yu, Y Shen, J Shi, H Zhao…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="54" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=8053588590478703627&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="15393921212791157727" label="ChatGPT is not all you need. A State of the Art Review of large Generative AI models">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2301.04655" />
+          <attvalue for="1" value="ChatGPT is not all you need. A State of the Art Review of large Generative AI models" />
+          <attvalue for="2" value="R Gozalo-Brizuela, EC Garrido-Merchan" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="80" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=15393921212791157727&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="7420567692305480707" label="Glycoinformatics in the artificial intelligence era">
+        <attvalues>
+          <attvalue for="0" value="https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.2c00110" />
+          <attvalue for="1" value="Glycoinformatics in the artificial intelligence era" />
+          <attvalue for="2" value="D Bojar, F Lisacek" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=7420567692305480707&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="3878971468388928610" label="Deep learning for depression recognition with audiovisual cues: A review">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S1566253521002207" />
+          <attvalue for="1" value="Deep learning for depression recognition with audiovisual cues: A review" />
+          <attvalue for="2" value="L He, M Niu, P Tiwari, P Marttinen, R Su, J Jiang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="62" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=3878971468388928610&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="9919738130893761480" label="Museformer: Transformer with fine-and coarse-grained attention for music generation">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2022/hash/092c2d45005ea2db40fc24c470663416-Abstract-Conference.html" />
+          <attvalue for="1" value="Museformer: Transformer with fine-and coarse-grained attention for music generation" />
+          <attvalue for="2" value="B Yu, P Lu, R Wang, W Hu, X Tan…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="12" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9919738130893761480&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="15926311935982020340" label="Video transformers: A survey">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/10041724/" />
+          <attvalue for="1" value="Video transformers: A survey" />
+          <attvalue for="2" value="J Selva, AS Johansen, S Escalera…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="41" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=15926311935982020340&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="836183377042488989" label="KNN-contrastive learning for out-of-domain intent classification">
+        <attvalues>
+          <attvalue for="0" value="https://aclanthology.org/2022.acl-long.352/" />
+          <attvalue for="1" value="KNN-contrastive learning for out-of-domain intent classification" />
+          <attvalue for="2" value="Y Zhou, P Liu, X Qiu" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="31" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=836183377042488989&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="17269928898680478649" label="Contrast and generation make bart a good dialogue emotion recognizer">
+        <attvalues>
+          <attvalue for="0" value="https://ojs.aaai.org/index.php/AAAI/article/view/21348" />
+          <attvalue for="1" value="Contrast and generation make bart a good dialogue emotion recognizer" />
+          <attvalue for="2" value="S Li, H Yan, X Qiu" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="34" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=17269928898680478649&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="6376642340831106711" label="Dual-aspect self-attention based on transformer for remaining useful life prediction">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9737516/" />
+          <attvalue for="1" value="Dual-aspect self-attention based on transformer for remaining useful life prediction" />
+          <attvalue for="2" value="Z Zhang, W Song, Q Li" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="53" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=6376642340831106711&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="12806372482493631350" label="Deltar: Depth estimation from a light-weight tof sensor and rgb image">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/chapter/10.1007/978-3-031-19769-7_36" />
+          <attvalue for="1" value="Deltar: Depth estimation from a light-weight tof sensor and rgb image" />
+          <attvalue for="2" value="Y Li, X Liu, W Dong, H Zhou, H Bao, G Zhang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=12806372482493631350&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="2160563741249466913" label="A Transformer-based deep neural network model for SSVEP classification">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S0893608023002319" />
+          <attvalue for="1" value="A Transformer-based deep neural network model for SSVEP classification" />
+          <attvalue for="2" value="J Chen, Y Zhang, Y Pan, P Xu, C Guan" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=2160563741249466913&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="16431204865977056518" label="Restormer: Efficient transformer for high-resolution image restoration">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Restormer: Efficient transformer for high-resolution image restoration" />
+          <attvalue for="2" value="SW Zamir, A Arora, S Khan, M Hayat…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="683" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=16431204865977056518&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="16932998913230259066" label="NTIRE 2023 challenge on efficient super-resolution: Methods and results">
+        <attvalues>
+          <attvalue for="0" value="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.html" />
+          <attvalue for="1" value="NTIRE 2023 challenge on efficient super-resolution: Methods and results" />
+          <attvalue for="2" value="Y Li, Y Zhang, R Timofte, L Van Gool…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="73" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=16932998913230259066&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="498268664873674535" label="Simple baselines for image restoration">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/chapter/10.1007/978-3-031-20071-7_2" />
+          <attvalue for="1" value="Simple baselines for image restoration" />
+          <attvalue for="2" value="L Chen, X Chu, X Zhang, J Sun" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="234" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=498268664873674535&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="9110410135628850117" label="Lens-to-lens bokeh effect transformation. NTIRE 2023 challenge report">
+        <attvalues>
+          <attvalue for="0" value="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Conde_Lens-to-Lens_Bokeh_Effect_Transformation._NTIRE_2023_Challenge_Report_CVPRW_2023_paper.html" />
+          <attvalue for="1" value="Lens-to-lens bokeh effect transformation. NTIRE 2023 challenge report" />
+          <attvalue for="2" value="MV Conde, M Kolmet, T Seizinger…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="17" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9110410135628850117&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="7710701073211724386" label="NTIRE 2023 video colorization challenge">
+        <attvalues>
+          <attvalue for="0" value="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Kang_NTIRE_2023_Video_Colorization_Challenge_CVPRW_2023_paper.html" />
+          <attvalue for="1" value="NTIRE 2023 video colorization challenge" />
+          <attvalue for="2" value="X Kang, X Lin, K Zhang, Z Hui…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="14" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=7710701073211724386&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="13272942409666364496" label="NTIRE 2023 Challenge on 360deg Omnidirectional Image and Video Super-Resolution: Datasets, Methods and Results">
+        <attvalues>
+          <attvalue for="0" value="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Cao_NTIRE_2023_Challenge_on_360deg_Omnidirectional_Image_and_Video_Super-Resolution_CVPRW_2023_paper.html" />
+          <attvalue for="1" value="NTIRE 2023 Challenge on 360deg Omnidirectional Image and Video Super-Resolution: Datasets, Methods and Results" />
+          <attvalue for="2" value="M Cao, C Mou, F Yu, X Wang…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="15" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=13272942409666364496&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="12297468854729392143" label="NTIRE 2023 challenge on image denoising: Methods and results">
+        <attvalues>
+          <attvalue for="0" value="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Image_Denoising_Methods_and_Results_CVPRW_2023_paper.html" />
+          <attvalue for="1" value="NTIRE 2023 challenge on image denoising: Methods and results" />
+          <attvalue for="2" value="Y Li, Y Zhang, R Timofte, L Van Gool…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="12" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=12297468854729392143&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="5364344454304770774" label="NTIRE 2023 challenge on night photography rendering">
+        <attvalues>
+          <attvalue for="0" value="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Shutova_NTIRE_2023_Challenge_on_Night_Photography_Rendering_CVPRW_2023_paper.html" />
+          <attvalue for="1" value="NTIRE 2023 challenge on night photography rendering" />
+          <attvalue for="2" value="A Shutova, E Ershov…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="13" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=5364344454304770774&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="3464402829187061665" label="Efficient long-range attention network for image super-resolution">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/chapter/10.1007/978-3-031-19790-1_39" />
+          <attvalue for="1" value="Efficient long-range attention network for image super-resolution" />
+          <attvalue for="2" value="X Zhang, H Zeng, S Guo, L Zhang" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="70" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=3464402829187061665&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="15226748689642581218" label="Cddfuse: Correlation-driven dual-branch feature decomposition for multi-modality image fusion">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2023/html/Zhao_CDDFuse_Correlation-Driven_Dual-Branch_Feature_Decomposition_for_Multi-Modality_Image_Fusion_CVPR_2023_paper.html" />
+          <attvalue for="1" value="Cddfuse: Correlation-driven dual-branch feature decomposition for multi-modality image fusion" />
+          <attvalue for="2" value="Z Zhao, H Bai, J Zhang, Y Zhang, S Xu…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=15226748689642581218&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="4776651674359042439" label="Mst++: Multi-stage spectral-wise transformer for efficient spectral reconstruction">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Cai_MST_Multi-Stage_Spectral-Wise_Transformer_for_Efficient_Spectral_Reconstruction_CVPRW_2022_paper.html" />
+          <attvalue for="1" value="Mst++: Multi-stage spectral-wise transformer for efficient spectral reconstruction" />
+          <attvalue for="2" value="Y Cai, J Lin, Z Lin, H Wang, Y Zhang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="40" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=4776651674359042439&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="278490733091580759" label="Learning enriched features for fast image restoration and enhancement">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9756908/" />
+          <attvalue for="1" value="Learning enriched features for fast image restoration and enhancement" />
+          <attvalue for="2" value="SW Zamir, A Arora, S Khan, M Hayat…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="55" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=278490733091580759&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="1598910218006932443" label="Aim 2022 challenge on super-resolution of compressed image and video: Dataset, methods and results">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/chapter/10.1007/978-3-031-25066-8_8" />
+          <attvalue for="1" value="Aim 2022 challenge on super-resolution of compressed image and video: Dataset, methods and results" />
+          <attvalue for="2" value="R Yang, R Timofte, X Li, Q Zhang, L Zhang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=1598910218006932443&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="13813872909195716054" label="Rethinking alignment in video super-resolution transformers">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2022/hash/ea4d65c59073e8faf79222654d25fbe2-Abstract-Conference.html" />
+          <attvalue for="1" value="Rethinking alignment in video super-resolution transformers" />
+          <attvalue for="2" value="S Shi, J Gu, L Xie, X Wang, Y Yang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="14" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=13813872909195716054&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="3715909162805048662" label="Maniqa: Multi-dimension attention network for no-reference image quality assessment">
+        <attvalues>
+          <attvalue for="0" value="https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Yang_MANIQA_Multi-Dimension_Attention_Network_for_No-Reference_Image_Quality_Assessment_CVPRW_2022_paper.html" />
+          <attvalue for="1" value="Maniqa: Multi-dimension attention network for no-reference image quality assessment" />
+          <attvalue for="2" value="S Yang, T Wu, S Shi, S Lao, Y Gong…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="50" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=3715909162805048662&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="8627981696317437595" label="NTIRE 2023 challenge on stereo image super-resolution: Methods and results">
+        <attvalues>
+          <attvalue for="0" value="https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Wang_NTIRE_2023_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.html" />
+          <attvalue for="1" value="NTIRE 2023 challenge on stereo image super-resolution: Methods and results" />
+          <attvalue for="2" value="L Wang, Y Guo, Y Wang, J Li, S Gu…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="23" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=8627981696317437595&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="11308628305789992240" label="Self-supervised video transformer">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Self-supervised video transformer" />
+          <attvalue for="2" value="K Ranasinghe, M Naseer, S Khan…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="48" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=11308628305789992240&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="2900405794489939688" label="Coarse-to-fine sparse transformer for hyperspectral image reconstruction">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/chapter/10.1007/978-3-031-19790-1_41" />
+          <attvalue for="1" value="Coarse-to-fine sparse transformer for hyperspectral image reconstruction" />
+          <attvalue for="2" value="Y Cai, J Lin, X Hu, H Wang, X Yuan, Y Zhang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="41" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=2900405794489939688&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="1292725169895823488" label="Pyramid Attention Network for Image Restoration">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/article/10.1007/s11263-023-01843-5" />
+          <attvalue for="1" value="Pyramid Attention Network for Image Restoration" />
+          <attvalue for="2" value="Y Mei, Y Fan, Y Zhang, J Yu, Y Zhou, D Liu…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="123" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=1292725169895823488&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="14640072730760349377" label="NTIRE 2022 challenge on perceptual image quality assessment">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Gu_NTIRE_2022_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2022_paper.html" />
+          <attvalue for="1" value="NTIRE 2022 challenge on perceptual image quality assessment" />
+          <attvalue for="2" value="J Gu, H Cai, C Dong, JS Ren…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="68" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=14640072730760349377&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="10110104334022835757" label="Coatnet: Marrying convolution and attention for all data sizes">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper/2021/hash/20568692db622456cc42a2e853ca21f8-Abstract.html" />
+          <attvalue for="1" value="Coatnet: Marrying convolution and attention for all data sizes" />
+          <attvalue for="2" value="Z Dai, H Liu, QV Le, M Tan" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="704" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=10110104334022835757&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="14443907969977981621" label="A convnet for the 2020s">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html" />
+          <attvalue for="1" value="A convnet for the 2020s" />
+          <attvalue for="2" value="Z Liu, H Mao, CY Wu, C Feichtenhofer…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="2126" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=14443907969977981621&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="13501013621324561884" label="Scaling vision transformers">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Zhai_Scaling_Vision_Transformers_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Scaling vision transformers" />
+          <attvalue for="2" value="X Zhai, A Kolesnikov, N Houlsby…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="561" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=13501013621324561884&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="13629397900287809862" label="Coca: Contrastive captioners are image-text foundation models">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2205.01917" />
+          <attvalue for="1" value="Coca: Contrastive captioners are image-text foundation models" />
+          <attvalue for="2" value="J Yu, Z Wang, V Vasudevan, L Yeung…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="470" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=13629397900287809862&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="1273811038957334386" label="Mvitv2: Improved multiscale vision transformers for classification and detection">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Li_MViTv2_Improved_Multiscale_Vision_Transformers_for_Classification_and_Detection_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Mvitv2: Improved multiscale vision transformers for classification and detection" />
+          <attvalue for="2" value="Y Li, CY Wu, H Fan, K Mangalam…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="278" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=1273811038957334386&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="610621467807251926" label="Inception transformer">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2022/hash/94e85561a342de88b559b72c9b29f638-Abstract-Conference.html" />
+          <attvalue for="1" value="Inception transformer" />
+          <attvalue for="2" value="C Si, W Yu, P Zhou, Y Zhou…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="145" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=610621467807251926&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="18380770342348927722" label="Lit: Zero-shot transfer with locked-image text tuning">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Zhai_LiT_Zero-Shot_Transfer_With_Locked-Image_Text_Tuning_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Lit: Zero-shot transfer with locked-image text tuning" />
+          <attvalue for="2" value="X Zhai, X Wang, B Mustafa, A Steiner…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="227" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=18380770342348927722&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="9618435703828650575" label="Simvlm: Simple visual language model pretraining with weak supervision">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2108.10904" />
+          <attvalue for="1" value="Simvlm: Simple visual language model pretraining with weak supervision" />
+          <attvalue for="2" value="Z Wang, J Yu, AW Yu, Z Dai, Y Tsvetkov…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="448" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9618435703828650575&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="17870066505440679476" label="Conditional positional encodings for vision transformers">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2102.10882" />
+          <attvalue for="1" value="Conditional positional encodings for vision transformers" />
+          <attvalue for="2" value="X Chu, Z Tian, B Zhang, X Wang, X Wei, H Xia…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="368" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=17870066505440679476&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="10588342779298269046" label="Eva: Exploring the limits of masked visual representation learning at scale">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2023/html/Fang_EVA_Exploring_the_Limits_of_Masked_Visual_Representation_Learning_at_CVPR_2023_paper.html" />
+          <attvalue for="1" value="Eva: Exploring the limits of masked visual representation learning at scale" />
+          <attvalue for="2" value="Y Fang, W Wang, B Xie, Q Sun, L Wu…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="101" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=10588342779298269046&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="6784655767122395745" label="Maxvit: Multi-axis vision transformer">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/chapter/10.1007/978-3-031-20053-3_27" />
+          <attvalue for="1" value="Maxvit: Multi-axis vision transformer" />
+          <attvalue for="2" value="Z Tu, H Talebi, H Zhang, F Yang, P Milanfar…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="158" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=6784655767122395745&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="6118595289890500680" label="Internimage: Exploring large-scale vision foundation models with deformable convolutions">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2023/html/Wang_InternImage_Exploring_Large-Scale_Vision_Foundation_Models_With_Deformable_Convolutions_CVPR_2023_paper.html" />
+          <attvalue for="1" value="Internimage: Exploring large-scale vision foundation models with deformable convolutions" />
+          <attvalue for="2" value="W Wang, J Dai, Z Chen, Z Huang, Z Li…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="113" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=6118595289890500680&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="12938213222665733645" label="Hornet: Efficient high-order spatial interactions with recursive gated convolutions">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2022/hash/436d042b2dd81214d23ae43eb196b146-Abstract-Conference.html" />
+          <attvalue for="1" value="Hornet: Efficient high-order spatial interactions with recursive gated convolutions" />
+          <attvalue for="2" value="Y Rao, W Zhao, Y Tang, J Zhou…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="99" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=12938213222665733645&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="1388490151733704334" label="Convnext v2: Co-designing and scaling convnets with masked autoencoders">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2023/html/Woo_ConvNeXt_V2_Co-Designing_and_Scaling_ConvNets_With_Masked_Autoencoders_CVPR_2023_paper.html" />
+          <attvalue for="1" value="Convnext v2: Co-designing and scaling convnets with masked autoencoders" />
+          <attvalue for="2" value="S Woo, S Debnath, R Hu, X Chen…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="61" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=1388490151733704334&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="18356109755771918503" label="Davit: Dual attention vision transformers">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/chapter/10.1007/978-3-031-20053-3_5" />
+          <attvalue for="1" value="Davit: Dual attention vision transformers" />
+          <attvalue for="2" value="M Ding, B Xiao, N Codella, P Luo, J Wang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="93" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=18356109755771918503&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="15188717593606933557" label="Patches are all you need?">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2201.09792" />
+          <attvalue for="1" value="Patches are all you need?" />
+          <attvalue for="2" value="A Trockman, JZ Kolter" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="221" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=15188717593606933557&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="12692106295877813680" label="Efficientformer: Vision transformers at mobilenet speed">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2022/hash/5452ad8ee6ea6e7dc41db1cbd31ba0b8-Abstract-Conference.html" />
+          <attvalue for="1" value="Efficientformer: Vision transformers at mobilenet speed" />
+          <attvalue for="2" value="Y Li, G Yuan, Y Wen, J Hu…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="86" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=12692106295877813680&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="1854387804616571098" label="Pure transformers are powerful graph learners">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d84236751fe6d25dc06db055a3180b0-Abstract-Conference.html" />
+          <attvalue for="1" value="Pure transformers are powerful graph learners" />
+          <attvalue for="2" value="J Kim, D Nguyen, S Min, S Cho…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="54" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=1854387804616571098&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="14988305211504802629" label="Multi-stage progressive image restoration">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2021/html/Zamir_Multi-Stage_Progressive_Image_Restoration_CVPR_2021_paper.html" />
+          <attvalue for="1" value="Multi-stage progressive image restoration" />
+          <attvalue for="2" value="SW Zamir, A Arora, S Khan, M Hayat…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="860" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=14988305211504802629&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="14031000766044293652" label="Uformer: A general u-shaped transformer for image restoration">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Wang_Uformer_A_General_U-Shaped_Transformer_for_Image_Restoration_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Uformer: A general u-shaped transformer for image restoration" />
+          <attvalue for="2" value="Z Wang, X Cun, J Bao, W Zhou…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="599" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=14031000766044293652&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="16381083981417715623" label="Ntire 2022 spectral recovery challenge and data set">
+        <attvalues>
+          <attvalue for="0" value="https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Arad_NTIRE_2022_Spectral_Recovery_Challenge_and_Data_Set_CVPRW_2022_paper.html" />
+          <attvalue for="1" value="Ntire 2022 spectral recovery challenge and data set" />
+          <attvalue for="2" value="B Arad, R Timofte, R Yahel, N Morag…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="39" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=16381083981417715623&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="6999508588420552953" label="NTIRE 2021 challenge on image deblurring">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.html" />
+          <attvalue for="1" value="NTIRE 2021 challenge on image deblurring" />
+          <attvalue for="2" value="S Nah, S Son, S Lee, R Timofte…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="60" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=6999508588420552953&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="18275282813589182456" label="Maxim: Multi-axis mlp for image processing">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Tu_MAXIM_Multi-Axis_MLP_for_Image_Processing_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Maxim: Multi-axis mlp for image processing" />
+          <attvalue for="2" value="Z Tu, H Talebi, H Zhang, F Yang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="188" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=18275282813589182456&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="11948207786179445379" label="Rethinking coarse-to-fine approach in single image deblurring">
+        <attvalues>
+          <attvalue for="0" value="https://openaccess.thecvf.com/content/ICCV2021/html/Cho_Rethinking_Coarse-To-Fine_Approach_in_Single_Image_Deblurring_ICCV_2021_paper.html?ref=https://githubhelp.com" />
+          <attvalue for="1" value="Rethinking coarse-to-fine approach in single image deblurring" />
+          <attvalue for="2" value="SJ Cho, SW Ji, JP Hong, SW Jung…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="271" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=11948207786179445379&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="2731814227384441305" label="Hinet: Half instance normalization network for image restoration">
+        <attvalues>
+          <attvalue for="0" value="https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Chen_HINet_Half_Instance_Normalization_Network_for_Image_Restoration_CVPRW_2021_paper.html" />
+          <attvalue for="1" value="Hinet: Half instance normalization network for image restoration" />
+          <attvalue for="2" value="L Chen, X Lu, J Zhang, X Chu…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="240" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=2731814227384441305&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="563900006853828372" label="Transweather: Transformer-based restoration of images degraded by adverse weather conditions">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Valanarasu_TransWeather_Transformer-Based_Restoration_of_Images_Degraded_by_Adverse_Weather_Conditions_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Transweather: Transformer-based restoration of images degraded by adverse weather conditions" />
+          <attvalue for="2" value="JMJ Valanarasu, R Yasarla…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="90" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=563900006853828372&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="2892557376887066282" label="Deblurring via stochastic refinement">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Whang_Deblurring_via_Stochastic_Refinement_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Deblurring via stochastic refinement" />
+          <attvalue for="2" value="J Whang, M Delbracio, H Talebi…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="88" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=2892557376887066282&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="10807347079650485654" label="All-in-one image restoration for unknown corruption">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Li_All-in-One_Image_Restoration_for_Unknown_Corruption_CVPR_2022_paper.html" />
+          <attvalue for="1" value="All-in-one image restoration for unknown corruption" />
+          <attvalue for="2" value="B Li, X Liu, P Hu, Z Wu, J Lv…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="72" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=10807347079650485654&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="8278982060432150337" label="Images speak in images: A generalist painter for in-context visual learning">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2023/html/Wang_Images_Speak_in_Images_A_Generalist_Painter_for_In-Context_Visual_CVPR_2023_paper.html" />
+          <attvalue for="1" value="Images speak in images: A generalist painter for in-context visual learning" />
+          <attvalue for="2" value="X Wang, W Wang, Y Cao, C Shen…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="31" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=8278982060432150337&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="9248261167097334152" label="Vrt: A video restoration transformer">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2201.12288" />
+          <attvalue for="1" value="Vrt: A video restoration transformer" />
+          <attvalue for="2" value="J Liang, J Cao, Y Fan, K Zhang, R Ranjan, Y Li…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="99" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9248261167097334152&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="7494856167361955847" label="Deep generalized unfolding networks for image restoration">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Mou_Deep_Generalized_Unfolding_Networks_for_Image_Restoration_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Deep generalized unfolding networks for image restoration" />
+          <attvalue for="2" value="C Mou, Q Wang, J Zhang" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="68" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=7494856167361955847&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="6389162819004784674" label="Learning multiple adverse weather removal via two-stage knowledge learning and multi-contrastive regularization: Toward a unified model">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Learning multiple adverse weather removal via two-stage knowledge learning and multi-contrastive regularization: Toward a unified model" />
+          <attvalue for="2" value="WT Chen, ZK Huang, CC Tsai…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="39" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=6389162819004784674&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="10294262589674995487" label="Cross Aggregation Transformer for Image Restoration">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2022/hash/a37fea8e67f907311826bc1ba2654d97-Abstract-Conference.html" />
+          <attvalue for="1" value="Cross Aggregation Transformer for Image Restoration" />
+          <attvalue for="2" value="Z Chen, Y Zhang, J Gu, L Kong…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="19" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=10294262589674995487&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="7561375020407203939" label="Improving image restoration by revisiting global information aggregation">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/chapter/10.1007/978-3-031-20071-7_4" />
+          <attvalue for="1" value="Improving image restoration by revisiting global information aggregation" />
+          <attvalue for="2" value="X Chu, L Chen, C Chen, X Lu" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="39" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=7561375020407203939&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="15635397108812213817" label="Transreid: Transformer-based object re-identification">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/ICCV2021/html/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.html" />
+          <attvalue for="1" value="Transreid: Transformer-based object re-identification" />
+          <attvalue for="2" value="S He, H Luo, P Wang, F Wang, H Li…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="495" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=15635397108812213817&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="7329647594369932315" label="Multiscale vision transformers">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/ICCV2021/html/Fan_Multiscale_Vision_Transformers_ICCV_2021_paper.html" />
+          <attvalue for="1" value="Multiscale vision transformers" />
+          <attvalue for="2" value="H Fan, B Xiong, K Mangalam, Y Li…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="1596" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=7329647594369932315&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="4431453089685809340" label="Cswin transformer: A general vision transformer backbone with cross-shaped windows">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Dong_CSWin_Transformer_A_General_Vision_Transformer_Backbone_With_Cross-Shaped_Windows_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Cswin transformer: A general vision transformer backbone with cross-shaped windows" />
+          <attvalue for="2" value="X Dong, J Bao, D Chen, W Zhang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="479" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=4431453089685809340&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="4278610892084589339" label="A survey on vision transformer">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9716741/" />
+          <attvalue for="1" value="A survey on vision transformer" />
+          <attvalue for="2" value="K Han, Y Wang, H Chen, X Chen, J Guo…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="684" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=4278610892084589339&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="601129416962130879" label="Transfg: A transformer architecture for fine-grained recognition">
+        <attvalues>
+          <attvalue for="0" value="https://ojs.aaai.org/index.php/AAAI/article/view/19967" />
+          <attvalue for="1" value="Transfg: A transformer architecture for fine-grained recognition" />
+          <attvalue for="2" value="J He, JN Chen, S Liu, A Kortylewski, C Yang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="212" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=601129416962130879&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="4326704403467340422" label="Multi-animal pose estimation, identification and tracking with DeepLabCut">
+        <attvalues>
+          <attvalue for="0" value="https://www.nature.com/articles/s41592-022-01443-0" />
+          <attvalue for="1" value="Multi-animal pose estimation, identification and tracking with DeepLabCut" />
+          <attvalue for="2" value="J Lauer, M Zhou, S Ye, W Menegas, S Schneider…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="167" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=4326704403467340422&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="18177167198432349205" label="Mhformer: Multi-hypothesis transformer for 3d human pose estimation">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Li_MHFormer_Multi-Hypothesis_Transformer_for_3D_Human_Pose_Estimation_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Mhformer: Multi-hypothesis transformer for 3d human pose estimation" />
+          <attvalue for="2" value="W Li, H Liu, H Tang, P Wang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="120" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=18177167198432349205&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="342346550438939327" label="Uniformer: Unifying convolution and self-attention for visual recognition">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/10143709/" />
+          <attvalue for="1" value="Uniformer: Unifying convolution and self-attention for visual recognition" />
+          <attvalue for="2" value="K Li, Y Wang, J Zhang, P Gao, G Song…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="100" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=342346550438939327&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="9632085609200326616" label="Not all images are worth 16x16 words: Dynamic transformers for efficient image recognition">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2021/hash/64517d8435994992e682b3e4aa0a0661-Abstract.html" />
+          <attvalue for="1" value="Not all images are worth 16x16 words: Dynamic transformers for efficient image recognition" />
+          <attvalue for="2" value="Y Wang, R Huang, S Song…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="99" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9632085609200326616&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="14716201437512299394" label="Adavit: Adaptive vision transformers for efficient image recognition">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Meng_AdaViT_Adaptive_Vision_Transformers_for_Efficient_Image_Recognition_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Adavit: Adaptive vision transformers for efficient image recognition" />
+          <attvalue for="2" value="L Meng, H Li, BC Chen, S Lan, Z Wu…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="69" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=14716201437512299394&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="6658129475220097194" label="Accelerating DETR convergence via semantic-aligned matching">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Accelerating_DETR_Convergence_via_Semantic-Aligned_Matching_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Accelerating DETR convergence via semantic-aligned matching" />
+          <attvalue for="2" value="G Zhang, Z Luo, Y Yu, K Cui…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="51" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=6658129475220097194&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="9897783945226246229" label="Cdtrans: Cross-domain transformer for unsupervised domain adaptation">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2109.06165" />
+          <attvalue for="1" value="Cdtrans: Cross-domain transformer for unsupervised domain adaptation" />
+          <attvalue for="2" value="T Xu, W Chen, P Wang, F Wang, H Li, R Jin" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="114" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9897783945226246229&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="5598507831422168925" label="Dual cross-attention learning for fine-grained visual categorization and object re-identification">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Dual_Cross-Attention_Learning_for_Fine-Grained_Visual_Categorization_and_Object_Re-Identification_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Dual cross-attention learning for fine-grained visual categorization and object re-identification" />
+          <attvalue for="2" value="H Zhu, W Ke, D Li, J Liu, L Tian…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="48" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=5598507831422168925&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="3707506564686588016" label="Towards discriminative representation learning for unsupervised person re-identification">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/ICCV2021/html/Isobe_Towards_Discriminative_Representation_Learning_for_Unsupervised_Person_Re-Identification_ICCV_2021_paper.html" />
+          <attvalue for="1" value="Towards discriminative representation learning for unsupervised person re-identification" />
+          <attvalue for="2" value="T Isobe, D Li, L Tian, W Chen…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="54" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=3707506564686588016&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="4988594281116353083" label="Bossnas: Exploring hybrid cnn-transformers with block-wisely self-supervised neural architecture search">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/ICCV2021/html/Li_BossNAS_Exploring_Hybrid_CNN-Transformers_With_Block-Wisely_Self-Supervised_Neural_Architecture_Search_ICCV_2021_paper.html" />
+          <attvalue for="1" value="Bossnas: Exploring hybrid cnn-transformers with block-wisely self-supervised neural architecture search" />
+          <attvalue for="2" value="C Li, T Tang, G Wang, J Peng…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="81" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=4988594281116353083&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="16448186114991458904" label="Exploiting temporal contexts with strided transformer for 3d human pose estimation">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9674785/" />
+          <attvalue for="1" value="Exploiting temporal contexts with strided transformer for 3d human pose estimation" />
+          <attvalue for="2" value="W Li, H Liu, R Ding, M Liu, P Wang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="92" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=16448186114991458904&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="10189561822678692220" label="Recent advances in vision transformer: A survey and outlook of recent work">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2203.01536" />
+          <attvalue for="1" value="Recent advances in vision transformer: A survey and outlook of recent work" />
+          <attvalue for="2" value="K Islam" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="17" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=10189561822678692220&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="12518043648515496043" label="Structure-aware positional transformer for visible-infrared person re-identification">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9725265/" />
+          <attvalue for="1" value="Structure-aware positional transformer for visible-infrared person re-identification" />
+          <attvalue for="2" value="C Chen, M Ye, M Qi, J Wu, J Jiang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="58" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=12518043648515496043&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="15172072370662904150" label="Intriguing properties of vision transformers">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2021/hash/c404a5adbf90e09631678b13b05d9d7a-Abstract.html" />
+          <attvalue for="1" value="Intriguing properties of vision transformers" />
+          <attvalue for="2" value="MM Naseer, K Ranasinghe, SH Khan…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="359" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=15172072370662904150&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="6668235945473015803" label="ibot: Image bert pre-training with online tokenizer">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2111.07832" />
+          <attvalue for="1" value="ibot: Image bert pre-training with online tokenizer" />
+          <attvalue for="2" value="J Zhou, C Wei, H Wang, W Shen, C Xie, A Yuille…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="372" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=6668235945473015803&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="2316302132679082774" label="Are transformers more robust than cnns?">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper/2021/hash/e19347e1c3ca0c0b97de5fb3b690855a-Abstract.html" />
+          <attvalue for="1" value="Are transformers more robust than cnns?" />
+          <attvalue for="2" value="Y Bai, J Mei, AL Yuille, C Xie" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="167" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=2316302132679082774&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="4388759310460601633" label="Daformer: Improving network architectures and training strategies for domain-adaptive semantic segmentation">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Hoyer_DAFormer_Improving_Network_Architectures_and_Training_Strategies_for_Domain-Adaptive_Semantic_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Daformer: Improving network architectures and training strategies for domain-adaptive semantic segmentation" />
+          <attvalue for="2" value="L Hoyer, D Dai, L Van Gool" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="177" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=4388759310460601633&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="3041067607452518927" label="Understanding the robustness in vision transformers">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.mlr.press/v162/zhou22m.html" />
+          <attvalue for="1" value="Understanding the robustness in vision transformers" />
+          <attvalue for="2" value="D Zhou, Z Yu, E Xie, C Xiao…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="82" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=3041067607452518927&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="875131557547078483" label="Partial success in closing the gap between human and machine vision">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper/2021/hash/c8877cff22082a16395a57e97232bb6f-Abstract.html" />
+          <attvalue for="1" value="Partial success in closing the gap between human and machine vision" />
+          <attvalue for="2" value="R Geirhos, K Narayanappa, B Mitzkus…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="110" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=875131557547078483&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="17891879498080154736" label="Efficient training of visual transformers with small datasets">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper/2021/hash/c81e155d85dae5430a8cee6f2242e82c-Abstract.html" />
+          <attvalue for="1" value="Efficient training of visual transformers with small datasets" />
+          <attvalue for="2" value="Y Liu, E Sangineto, W Bi, N Sebe…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="106" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=17891879498080154736&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="2028336304446280911" label="Assaying out-of-distribution generalization in transfer learning">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2022/hash/2f5acc925919209370a3af4eac5cad4a-Abstract-Conference.html" />
+          <attvalue for="1" value="Assaying out-of-distribution generalization in transfer learning" />
+          <attvalue for="2" value="F Wenzel, A Dittadi, P Gehler…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="29" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=2028336304446280911&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="5601871542106060008" label="Ow-detr: Open-world detection transformer">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Gupta_OW-DETR_Open-World_Detection_Transformer_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Ow-detr: Open-world detection transformer" />
+          <attvalue for="2" value="A Gupta, S Narayan, KJ Joseph…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="67" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=5601871542106060008&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="14672720829595281606" label="ViT-YOLO: Transformer-based YOLO for object detection">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhang_ViT-YOLOTransformer-Based_YOLO_for_Object_Detection_ICCVW_2021_paper.html" />
+          <attvalue for="1" value="ViT-YOLO: Transformer-based YOLO for object detection" />
+          <attvalue for="2" value="Z Zhang, X Lu, G Cao, Y Yang…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="82" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=14672720829595281606&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="13367059770507522630" label="Not all patches are what you need: Expediting vision transformers via token reorganizations">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2202.07800" />
+          <attvalue for="1" value="Not all patches are what you need: Expediting vision transformers via token reorganizations" />
+          <attvalue for="2" value="Y Liang, C Ge, Z Tong, Y Song, J Wang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="111" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=13367059770507522630&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="4241401890946035983" label="Msft-yolo: Improved yolov5 based on transformer for detecting defects of steel surface">
+        <attvalues>
+          <attvalue for="0" value="https://www.mdpi.com/1424-8220/22/9/3467" />
+          <attvalue for="1" value="Msft-yolo: Improved yolov5 based on transformer for detecting defects of steel surface" />
+          <attvalue for="2" value="Z Guo, C Wang, G Yang, Z Huang, G Li" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="68" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=4241401890946035983&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="6243645967630982889" label="Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S1361841523000233" />
+          <attvalue for="1" value="Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives" />
+          <attvalue for="2" value="J Li, J Chen, Y Tang, C Wang, BA Landman…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="56" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=6243645967630982889&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="4486454263174539234" label="Viewfool: Evaluating the robustness of visual recognition to adversarial viewpoints">
+        <attvalues>
+          <attvalue for="0" value="https://proceedings.neurips.cc/paper_files/paper/2022/hash/eee7ae5cf0c4356c2aeca400771791aa-Abstract-Conference.html" />
+          <attvalue for="1" value="Viewfool: Evaluating the robustness of visual recognition to adversarial viewpoints" />
+          <attvalue for="2" value="Y Dong, S Ruan, H Su, C Kang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="18" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=4486454263174539234&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="1157620601786084092" label="Efficient training of audio transformers with patchout">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2110.05069" />
+          <attvalue for="1" value="Efficient training of audio transformers with patchout" />
+          <attvalue for="2" value="K Koutini, J Schlüter, H Eghbal-Zadeh…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="106" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=1157620601786084092&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="11135517644142739642" label="Panoptic segformer: Delving deeper into panoptic segmentation with transformers">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Li_Panoptic_SegFormer_Delving_Deeper_Into_Panoptic_Segmentation_With_Transformers_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Panoptic segformer: Delving deeper into panoptic segmentation with transformers" />
+          <attvalue for="2" value="Z Li, W Wang, E Xie, Z Yu…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="47" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=11135517644142739642&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="13429345883781912849" label="Localizing objects with self-supervised transformers and no labels">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2109.14279" />
+          <attvalue for="1" value="Localizing objects with self-supervised transformers and no labels" />
+          <attvalue for="2" value="O Siméoni, G Puy, HV Vo, S Roburin, S Gidaris…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="92" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=13429345883781912849&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="14311400318178337111" label="A survey of modern deep learning based object detection models">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S1051200422001312" />
+          <attvalue for="1" value="A survey of modern deep learning based object detection models" />
+          <attvalue for="2" value="SSA Zaidi, MS Ansari, A Aslam, N Kanwal…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="425" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=14311400318178337111&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="11789051068432887660" label="Deep learning methods for object detection in smart manufacturing: A survey">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S0278612522001066" />
+          <attvalue for="1" value="Deep learning methods for object detection in smart manufacturing: A survey" />
+          <attvalue for="2" value="HM Ahmad, A Rahimi" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="20" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=11789051068432887660&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="15295068953900215294" label="Mammogram breast cancer CAD systems for mass detection and classification: a review">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/article/10.1007/s11042-022-12332-1" />
+          <attvalue for="1" value="Mammogram breast cancer CAD systems for mass detection and classification: a review" />
+          <attvalue for="2" value="NM Hassan, S Hamad, K Mahar" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="32" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=15295068953900215294&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="15549291371117213871" label="Precise single-stage detector">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2210.04252" />
+          <attvalue for="1" value="Precise single-stage detector" />
+          <attvalue for="2" value="A Chandio, G Gui, T Kumar, I Ullah…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="41" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=15549291371117213871&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="9884544045603971658" label="CE-FPN: Enhancing channel information for object detection">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/article/10.1007/s11042-022-11940-1" />
+          <attvalue for="1" value="CE-FPN: Enhancing channel information for object detection" />
+          <attvalue for="2" value="Y Luo, X Cao, J Zhang, J Guo, H Shen, T Wang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="68" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9884544045603971658&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="9591435289724766439" label="A survey of self-supervised and few-shot object detection">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9860087/" />
+          <attvalue for="1" value="A survey of self-supervised and few-shot object detection" />
+          <attvalue for="2" value="G Huang, I Laradji, D Vazquez…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="42" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9591435289724766439&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="10628215061802232868" label="Feature split–merge–enhancement network for remote sensing object detection">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9673713/" />
+          <attvalue for="1" value="Feature split–merge–enhancement network for remote sensing object detection" />
+          <attvalue for="2" value="W Ma, N Li, H Zhu, L Jiao, X Tang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="42" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=10628215061802232868&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="9532821550175512200" label="Guiding pretraining in reinforcement learning with large language models">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2302.06692" />
+          <attvalue for="1" value="Guiding pretraining in reinforcement learning with large language models" />
+          <attvalue for="2" value="Y Du, O Watkins, Z Wang, C Colas, T Darrell…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="19" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=9532821550175512200&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="12985976504909847163" label="Integrating deep learning-based iot and fog computing with software-defined networking for detecting weapons in video surveillance systems">
+        <attvalues>
+          <attvalue for="0" value="https://www.mdpi.com/1424-8220/22/14/5075" />
+          <attvalue for="1" value="Integrating deep learning-based iot and fog computing with software-defined networking for detecting weapons in video surveillance systems" />
+          <attvalue for="2" value="C Fathy, SN Saleh" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="18" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=12985976504909847163&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="2812153438552156646" label="Backbones-review: Feature extraction networks for deep learning and deep reinforcement learning approaches">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2206.08016" />
+          <attvalue for="1" value="Backbones-review: Feature extraction networks for deep learning and deep reinforcement learning approaches" />
+          <attvalue for="2" value="O Elharrouss, Y Akbari, N Almaadeed…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="28" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=2812153438552156646&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="14349697475909471320" label="Small-object detection based on YOLOv5 in autonomous driving systems">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S0167865523000727" />
+          <attvalue for="1" value="Small-object detection based on YOLOv5 in autonomous driving systems" />
+          <attvalue for="2" value="B Mahaur, KK Mishra" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="14" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=14349697475909471320&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="18351357225093508985" label="Single-stage uav detection and classification with yolov5: Mosaic data augmentation and panet">
+        <attvalues>
+          <attvalue for="0" value="https://ieeexplore.ieee.org/abstract/document/9663841/" />
+          <attvalue for="1" value="Single-stage uav detection and classification with yolov5: Mosaic data augmentation and panet" />
+          <attvalue for="2" value="F Dadboud, V Patel, V Mehta, M Bolic…" />
+          <attvalue for="3" value="2021" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=18351357225093508985&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="11021564807628327569" label="FPGA-based accelerator for object detection: A comprehensive survey">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/article/10.1007/s11227-022-04415-5" />
+          <attvalue for="1" value="FPGA-based accelerator for object detection: A comprehensive survey" />
+          <attvalue for="2" value="K Zeng, Q Ma, JW Wu, Z Chen, T Shen…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="14" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=11021564807628327569&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="4655434626952320958" label="Rail wheel tread defect detection using improved YOLOv3">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S0263224122011551" />
+          <attvalue for="1" value="Rail wheel tread defect detection using improved YOLOv3" />
+          <attvalue for="2" value="Z Xing, Z Zhang, X Yao, Y Qin, L Jia" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="11" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=4655434626952320958&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="16079747206913991174" label="Development of a Low-Power IoMT Portable Pillbox for Medication Adherence Improvement and Remote Treatment Adjustment">
+        <attvalues>
+          <attvalue for="0" value="https://www.mdpi.com/1424-8220/22/15/5818" />
+          <attvalue for="1" value="Development of a Low-Power IoMT Portable Pillbox for Medication Adherence Improvement and Remote Treatment Adjustment" />
+          <attvalue for="2" value="D Karagiannis, K Mitsis, KS Nikita" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=16079747206913991174&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="16432688928939217038" label="A comprehensive review of object detection with deep learning">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S1051200422004298" />
+          <attvalue for="1" value="A comprehensive review of object detection with deep learning" />
+          <attvalue for="2" value="R Kaur, S Singh" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="11" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=16432688928939217038&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="6456248456066525600" label="A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/article/10.1186/s40537-023-00727-2" />
+          <attvalue for="1" value="A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications" />
+          <attvalue for="2" value="L Alzubaidi, J Bai, A Al-Sabaawi, J Santamaría…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=6456248456066525600&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="8123745338600640152" label="Video surveillance using deep transfer learning and deep domain adaptation: Towards better generalization">
+        <attvalues>
+          <attvalue for="0" value="https://www.sciencedirect.com/science/article/pii/S0952197622006881" />
+          <attvalue for="1" value="Video surveillance using deep transfer learning and deep domain adaptation: Towards better generalization" />
+          <attvalue for="2" value="Y Himeur, S Al-Maadeed, H Kheddar…" />
+          <attvalue for="3" value="2023" />
+          <attvalue for="4" value="18" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=8123745338600640152&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="10334732198267289555" label="Review of recent automated pothole-detection methods">
+        <attvalues>
+          <attvalue for="0" value="https://www.mdpi.com/2076-3417/12/11/5320" />
+          <attvalue for="1" value="Review of recent automated pothole-detection methods" />
+          <attvalue for="2" value="YM Kim, YG Kim, SY Son, SY Lim, BY Choi, DH Choi" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="15" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=10334732198267289555&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="5740479134802475221" label="Towards domain generalization in object detection">
+        <attvalues>
+          <attvalue for="0" value="https://arxiv.org/abs/2203.14387" />
+          <attvalue for="1" value="Towards domain generalization in object detection" />
+          <attvalue for="2" value="X Zhang, Z Xu, R Xu, J Liu, P Cui, W Wan…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="15" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=5740479134802475221&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="6447041552955227244" label="Allergen30: detecting food items with possible allergens using deep learning-based computer vision">
+        <attvalues>
+          <attvalue for="0" value="https://link.springer.com/article/10.1007/s12161-022-02353-9" />
+          <attvalue for="1" value="Allergen30: detecting food items with possible allergens using deep learning-based computer vision" />
+          <attvalue for="2" value="M Mishra, T Sarkar, T Choudhury, N Bansal…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=6447041552955227244&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="17327663970405370182" label="Point-bert: Pre-training 3d point cloud transformers with masked point modeling">
+        <attvalues>
+          <attvalue for="0" value="http://openaccess.thecvf.com/content/CVPR2022/html/Yu_Point-BERT_Pre-Training_3D_Point_Cloud_Transformers_With_Masked_Point_Modeling_CVPR_2022_paper.html" />
+          <attvalue for="1" value="Point-bert: Pre-training 3d point cloud transformers with masked point modeling" />
+          <attvalue for="2" value="X Yu, L Tang, Y Rao, T Huang…" />
+          <attvalue for="3" value="2022" />
+          <attvalue for="4" value="215" />
+          <attvalue for="5" value="https://scholar.google.com/scholar?cites=17327663970405370182&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en" />
+          <attvalue for="6" value="7" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="7522504961268153944" target="6382612685700818764" id="0" />
+      <edge source="7522504961268153944" target="16431204865977056518" id="1" />
+      <edge source="7522504961268153944" target="10110104334022835757" id="2" />
+      <edge source="7522504961268153944" target="15635397108812213817" id="3" />
+      <edge source="7522504961268153944" target="15172072370662904150" id="4" />
+      <edge source="15456065911372617945" target="7522504961268153944" id="5" />
+      <edge source="15456065911372617945" target="10110104334022835757" id="6" />
+      <edge source="982391967541643955" target="15456065911372617945" id="7" />
+      <edge source="982391967541643955" target="7749897961068121501" id="8" />
+      <edge source="982391967541643955" target="15172072370662904150" id="9" />
+      <edge source="2452866517197292093" target="15456065911372617945" id="10" />
+      <edge source="4773463079530656035" target="15456065911372617945" id="11" />
+      <edge source="4773463079530656035" target="10110104334022835757" id="12" />
+      <edge source="761718241536208511" target="15456065911372617945" id="13" />
+      <edge source="7104781172538541114" target="15456065911372617945" id="14" />
+      <edge source="6491078858607146383" target="15456065911372617945" id="15" />
+      <edge source="11978445553624214380" target="15456065911372617945" id="16" />
+      <edge source="5228146784334715443" target="15456065911372617945" id="17" />
+      <edge source="5228146784334715443" target="7749897961068121501" id="18" />
+      <edge source="9099615620722636165" target="15456065911372617945" id="19" />
+      <edge source="10884589459641707712" target="15456065911372617945" id="20" />
+      <edge source="16262241741810610288" target="15456065911372617945" id="21" />
+      <edge source="17062002127391260256" target="15456065911372617945" id="22" />
+      <edge source="2492869366552030070" target="15456065911372617945" id="23" />
+      <edge source="2308320307881605474" target="15456065911372617945" id="24" />
+      <edge source="28694845113345021" target="15456065911372617945" id="25" />
+      <edge source="9917302194767651380" target="15456065911372617945" id="26" />
+      <edge source="8402450993508627791" target="15456065911372617945" id="27" />
+      <edge source="17059844040400317816" target="15456065911372617945" id="28" />
+      <edge source="1609101033275109223" target="15456065911372617945" id="29" />
+      <edge source="9226375279866402413" target="15456065911372617945" id="30" />
+      <edge source="7749897961068121501" target="7522504961268153944" id="31" />
+      <edge source="1539076789580815483" target="7749897961068121501" id="32" />
+      <edge source="966567457136989804" target="7749897961068121501" id="33" />
+      <edge source="10761248177036470713" target="7749897961068121501" id="34" />
+      <edge source="10761248177036470713" target="15635397108812213817" id="35" />
+      <edge source="14136709172791920331" target="7749897961068121501" id="36" />
+      <edge source="13597902966753793310" target="7749897961068121501" id="37" />
+      <edge source="4431578198915484435" target="7749897961068121501" id="38" />
+      <edge source="2600515932282922845" target="7749897961068121501" id="39" />
+      <edge source="8053588590478703627" target="7749897961068121501" id="40" />
+      <edge source="8053588590478703627" target="15635397108812213817" id="41" />
+      <edge source="15393921212791157727" target="7749897961068121501" id="42" />
+      <edge source="7420567692305480707" target="7749897961068121501" id="43" />
+      <edge source="3878971468388928610" target="7749897961068121501" id="44" />
+      <edge source="9919738130893761480" target="7749897961068121501" id="45" />
+      <edge source="15926311935982020340" target="7749897961068121501" id="46" />
+      <edge source="836183377042488989" target="7749897961068121501" id="47" />
+      <edge source="17269928898680478649" target="7749897961068121501" id="48" />
+      <edge source="6376642340831106711" target="7749897961068121501" id="49" />
+      <edge source="12806372482493631350" target="7749897961068121501" id="50" />
+      <edge source="2160563741249466913" target="7749897961068121501" id="51" />
+      <edge source="16431204865977056518" target="7522504961268153944" id="52" />
+      <edge source="16431204865977056518" target="14988305211504802629" id="53" />
+      <edge source="16932998913230259066" target="16431204865977056518" id="54" />
+      <edge source="498268664873674535" target="16431204865977056518" id="55" />
+      <edge source="9110410135628850117" target="16431204865977056518" id="56" />
+      <edge source="7710701073211724386" target="16431204865977056518" id="57" />
+      <edge source="13272942409666364496" target="16431204865977056518" id="58" />
+      <edge source="12297468854729392143" target="16431204865977056518" id="59" />
+      <edge source="5364344454304770774" target="16431204865977056518" id="60" />
+      <edge source="3464402829187061665" target="16431204865977056518" id="61" />
+      <edge source="15226748689642581218" target="16431204865977056518" id="62" />
+      <edge source="4776651674359042439" target="16431204865977056518" id="63" />
+      <edge source="4776651674359042439" target="14988305211504802629" id="64" />
+      <edge source="278490733091580759" target="16431204865977056518" id="65" />
+      <edge source="278490733091580759" target="14988305211504802629" id="66" />
+      <edge source="1598910218006932443" target="16431204865977056518" id="67" />
+      <edge source="13813872909195716054" target="16431204865977056518" id="68" />
+      <edge source="3715909162805048662" target="16431204865977056518" id="69" />
+      <edge source="8627981696317437595" target="16431204865977056518" id="70" />
+      <edge source="11308628305789992240" target="16431204865977056518" id="71" />
+      <edge source="11308628305789992240" target="15172072370662904150" id="72" />
+      <edge source="2900405794489939688" target="16431204865977056518" id="73" />
+      <edge source="2900405794489939688" target="14988305211504802629" id="74" />
+      <edge source="1292725169895823488" target="16431204865977056518" id="75" />
+      <edge source="1292725169895823488" target="14988305211504802629" id="76" />
+      <edge source="14640072730760349377" target="16431204865977056518" id="77" />
+      <edge source="10110104334022835757" target="7522504961268153944" id="78" />
+      <edge source="14443907969977981621" target="10110104334022835757" id="79" />
+      <edge source="13501013621324561884" target="10110104334022835757" id="80" />
+      <edge source="13629397900287809862" target="10110104334022835757" id="81" />
+      <edge source="1273811038957334386" target="10110104334022835757" id="82" />
+      <edge source="610621467807251926" target="10110104334022835757" id="83" />
+      <edge source="18380770342348927722" target="10110104334022835757" id="84" />
+      <edge source="9618435703828650575" target="10110104334022835757" id="85" />
+      <edge source="17870066505440679476" target="10110104334022835757" id="86" />
+      <edge source="10588342779298269046" target="10110104334022835757" id="87" />
+      <edge source="6784655767122395745" target="10110104334022835757" id="88" />
+      <edge source="6118595289890500680" target="10110104334022835757" id="89" />
+      <edge source="12938213222665733645" target="10110104334022835757" id="90" />
+      <edge source="1388490151733704334" target="10110104334022835757" id="91" />
+      <edge source="18356109755771918503" target="10110104334022835757" id="92" />
+      <edge source="15188717593606933557" target="10110104334022835757" id="93" />
+      <edge source="12692106295877813680" target="10110104334022835757" id="94" />
+      <edge source="1854387804616571098" target="10110104334022835757" id="95" />
+      <edge source="14988305211504802629" target="7522504961268153944" id="96" />
+      <edge source="14031000766044293652" target="14988305211504802629" id="97" />
+      <edge source="16381083981417715623" target="14988305211504802629" id="98" />
+      <edge source="6999508588420552953" target="14988305211504802629" id="99" />
+      <edge source="18275282813589182456" target="14988305211504802629" id="100" />
+      <edge source="11948207786179445379" target="14988305211504802629" id="101" />
+      <edge source="2731814227384441305" target="14988305211504802629" id="102" />
+      <edge source="563900006853828372" target="14988305211504802629" id="103" />
+      <edge source="2892557376887066282" target="14988305211504802629" id="104" />
+      <edge source="10807347079650485654" target="14988305211504802629" id="105" />
+      <edge source="8278982060432150337" target="14988305211504802629" id="106" />
+      <edge source="9248261167097334152" target="14988305211504802629" id="107" />
+      <edge source="7494856167361955847" target="14988305211504802629" id="108" />
+      <edge source="6389162819004784674" target="14988305211504802629" id="109" />
+      <edge source="10294262589674995487" target="14988305211504802629" id="110" />
+      <edge source="7561375020407203939" target="14988305211504802629" id="111" />
+      <edge source="15635397108812213817" target="7522504961268153944" id="112" />
+      <edge source="7329647594369932315" target="15635397108812213817" id="113" />
+      <edge source="4431453089685809340" target="15635397108812213817" id="114" />
+      <edge source="4278610892084589339" target="15635397108812213817" id="115" />
+      <edge source="601129416962130879" target="15635397108812213817" id="116" />
+      <edge source="4326704403467340422" target="15635397108812213817" id="117" />
+      <edge source="18177167198432349205" target="15635397108812213817" id="118" />
+      <edge source="342346550438939327" target="15635397108812213817" id="119" />
+      <edge source="9632085609200326616" target="15635397108812213817" id="120" />
+      <edge source="14716201437512299394" target="15635397108812213817" id="121" />
+      <edge source="6658129475220097194" target="15635397108812213817" id="122" />
+      <edge source="9897783945226246229" target="15635397108812213817" id="123" />
+      <edge source="9897783945226246229" target="15172072370662904150" id="124" />
+      <edge source="5598507831422168925" target="15635397108812213817" id="125" />
+      <edge source="3707506564686588016" target="15635397108812213817" id="126" />
+      <edge source="4988594281116353083" target="15635397108812213817" id="127" />
+      <edge source="16448186114991458904" target="15635397108812213817" id="128" />
+      <edge source="10189561822678692220" target="15635397108812213817" id="129" />
+      <edge source="12518043648515496043" target="15635397108812213817" id="130" />
+      <edge source="15172072370662904150" target="7522504961268153944" id="131" />
+      <edge source="6668235945473015803" target="15172072370662904150" id="132" />
+      <edge source="2316302132679082774" target="15172072370662904150" id="133" />
+      <edge source="4388759310460601633" target="15172072370662904150" id="134" />
+      <edge source="3041067607452518927" target="15172072370662904150" id="135" />
+      <edge source="875131557547078483" target="15172072370662904150" id="136" />
+      <edge source="17891879498080154736" target="15172072370662904150" id="137" />
+      <edge source="2028336304446280911" target="15172072370662904150" id="138" />
+      <edge source="5601871542106060008" target="15172072370662904150" id="139" />
+      <edge source="14672720829595281606" target="15172072370662904150" id="140" />
+      <edge source="13367059770507522630" target="15172072370662904150" id="141" />
+      <edge source="4241401890946035983" target="15172072370662904150" id="142" />
+      <edge source="6243645967630982889" target="15172072370662904150" id="143" />
+      <edge source="4486454263174539234" target="15172072370662904150" id="144" />
+      <edge source="1157620601786084092" target="15172072370662904150" id="145" />
+      <edge source="11135517644142739642" target="15172072370662904150" id="146" />
+      <edge source="13429345883781912849" target="15172072370662904150" id="147" />
+      <edge source="14311400318178337111" target="7522504961268153944" id="148" />
+      <edge source="11789051068432887660" target="14311400318178337111" id="149" />
+      <edge source="15295068953900215294" target="14311400318178337111" id="150" />
+      <edge source="15549291371117213871" target="14311400318178337111" id="151" />
+      <edge source="9884544045603971658" target="14311400318178337111" id="152" />
+      <edge source="9591435289724766439" target="14311400318178337111" id="153" />
+      <edge source="10628215061802232868" target="14311400318178337111" id="154" />
+      <edge source="9532821550175512200" target="14311400318178337111" id="155" />
+      <edge source="12985976504909847163" target="14311400318178337111" id="156" />
+      <edge source="2812153438552156646" target="14311400318178337111" id="157" />
+      <edge source="14349697475909471320" target="14311400318178337111" id="158" />
+      <edge source="18351357225093508985" target="14311400318178337111" id="159" />
+      <edge source="11021564807628327569" target="14311400318178337111" id="160" />
+      <edge source="4655434626952320958" target="14311400318178337111" id="161" />
+      <edge source="16079747206913991174" target="14311400318178337111" id="162" />
+      <edge source="16432688928939217038" target="14311400318178337111" id="163" />
+      <edge source="6456248456066525600" target="14311400318178337111" id="164" />
+      <edge source="8123745338600640152" target="14311400318178337111" id="165" />
+      <edge source="10334732198267289555" target="14311400318178337111" id="166" />
+      <edge source="5740479134802475221" target="14311400318178337111" id="167" />
+      <edge source="6447041552955227244" target="14311400318178337111" id="168" />
+      <edge source="17327663970405370182" target="7522504961268153944" id="169" />
+    </edges>
+  </graph>
+</gexf>

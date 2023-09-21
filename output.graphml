@@ -1,0 +1,1860 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="node" attr.name="modularity" attr.type="long"/>
+<key id="d7" for="node" attr.name="cited_by_url" attr.type="string"/>
+<key id="d6" for="node" attr.name="cited_by" attr.type="long"/>
+<key id="d5" for="node" attr.name="year" attr.type="string"/>
+<key id="d4" for="node" attr.name="authors" attr.type="string"/>
+<key id="d3" for="node" attr.name="title" attr.type="string"/>
+<key id="d2" for="node" attr.name="url" attr.type="string"/>
+<key id="d1" for="node" attr.name="id" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="7522504961268153944">
+  <data key="d0">Transformers in vision: A survey</data>
+  <data key="d1">7522504961268153944</data>
+  <data key="d2">https://dl.acm.org/doi/abs/10.1145/3505244</data>
+  <data key="d3">Transformers in vision: A survey</data>
+  <data key="d4">S Khan, M Naseer, M Hayat, SW Zamir…</data>
+  <data key="d5">2022</data>
+  <data key="d6">1277</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=7522504961268153944&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">7</data>
+</node>
+<node id="6382612685700818764">
+  <data key="d0">You only look once: Unified, real-time object detection</data>
+  <data key="d1">6382612685700818764</data>
+  <data key="d3">You only look once: Unified, real-time object detection</data>
+  <data key="d6">38962</data>
+  <data key="d8">7</data>
+</node>
+<node id="15456065911372617945">
+  <data key="d0">Attention mechanisms in computer vision: A survey</data>
+  <data key="d1">15456065911372617945</data>
+  <data key="d2">https://link.springer.com/article/10.1007/s41095-022-0271-y</data>
+  <data key="d3">Attention mechanisms in computer vision: A survey</data>
+  <data key="d4">MH Guo, TX Xu, JJ Liu, ZN Liu, PT Jiang, TJ Mu…</data>
+  <data key="d5">2022</data>
+  <data key="d6">606</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=15456065911372617945&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="982391967541643955">
+  <data key="d0">Transformers in medical imaging: A survey</data>
+  <data key="d1">982391967541643955</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S1361841523000634</data>
+  <data key="d3">Transformers in medical imaging: A survey</data>
+  <data key="d4">F Shamshad, S Khan, SW Zamir, MH Khan…</data>
+  <data key="d5">2023</data>
+  <data key="d6">179</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=982391967541643955&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="2452866517197292093">
+  <data key="d0">A comprehensive survey on pretrained foundation models: A history from bert to chatgpt</data>
+  <data key="d1">2452866517197292093</data>
+  <data key="d2">https://arxiv.org/abs/2302.09419</data>
+  <data key="d3">A comprehensive survey on pretrained foundation models: A history from bert to chatgpt</data>
+  <data key="d4">C Zhou, Q Li, C Li, J Yu, Y Liu, G Wang…</data>
+  <data key="d5">2023</data>
+  <data key="d6">109</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=2452866517197292093&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="4773463079530656035">
+  <data key="d0">Visual attention network</data>
+  <data key="d1">4773463079530656035</data>
+  <data key="d2">https://link.springer.com/article/10.1007/s41095-023-0364-2</data>
+  <data key="d3">Visual attention network</data>
+  <data key="d4">MH Guo, CZ Lu, ZN Liu, MM Cheng, SM Hu</data>
+  <data key="d5">2023</data>
+  <data key="d6">235</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=4773463079530656035&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="761718241536208511">
+  <data key="d0">Segnext: Rethinking convolutional attention design for semantic segmentation</data>
+  <data key="d1">761718241536208511</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2022/hash/08050f40fff41616ccfc3080e60a301a-Abstract-Conference.html</data>
+  <data key="d3">Segnext: Rethinking convolutional attention design for semantic segmentation</data>
+  <data key="d4">MH Guo, CZ Lu, Q Hou, Z Liu…</data>
+  <data key="d5">2022</data>
+  <data key="d6">113</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=761718241536208511&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="7104781172538541114">
+  <data key="d0">YOLOv5-Tassel: Detecting tassels in RGB UAV imagery with improved YOLOv5 based on transfer learning</data>
+  <data key="d1">7104781172538541114</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9889182/</data>
+  <data key="d3">YOLOv5-Tassel: Detecting tassels in RGB UAV imagery with improved YOLOv5 based on transfer learning</data>
+  <data key="d4">W Liu, K Quijano, MM Crawford</data>
+  <data key="d5">2022</data>
+  <data key="d6">115</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=7104781172538541114&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="6491078858607146383">
+  <data key="d0">Towards an end-to-end framework for flow-guided video inpainting</data>
+  <data key="d1">6491078858607146383</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Li_Towards_an_End-to-End_Framework_for_Flow-Guided_Video_Inpainting_CVPR_2022_paper.html</data>
+  <data key="d3">Towards an end-to-end framework for flow-guided video inpainting</data>
+  <data key="d4">Z Li, CZ Lu, J Qin, CL Guo…</data>
+  <data key="d5">2022</data>
+  <data key="d6">43</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=6491078858607146383&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="11978445553624214380">
+  <data key="d0">ISNet: Towards improving separability for remote sensing image change detection</data>
+  <data key="d1">11978445553624214380</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9772654/</data>
+  <data key="d3">ISNet: Towards improving separability for remote sensing image change detection</data>
+  <data key="d4">G Cheng, G Wang, J Han</data>
+  <data key="d5">2022</data>
+  <data key="d6">37</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=11978445553624214380&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="5228146784334715443">
+  <data key="d0">Diagnosis of brain diseases in fusion of neuroimaging modalities using deep learning: A review</data>
+  <data key="d1">5228146784334715443</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S1566253522002573</data>
+  <data key="d3">Diagnosis of brain diseases in fusion of neuroimaging modalities using deep learning: A review</data>
+  <data key="d4">A Shoeibi, M Khodatars, M Jafari, N Ghassemi…</data>
+  <data key="d5">2022</data>
+  <data key="d6">21</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=5228146784334715443&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="9099615620722636165">
+  <data key="d0">Swin-transformer-enabled YOLOv5 with attention mechanism for small object detection on satellite images</data>
+  <data key="d1">9099615620722636165</data>
+  <data key="d2">https://www.mdpi.com/2072-4292/14/12/2861</data>
+  <data key="d3">Swin-transformer-enabled YOLOv5 with attention mechanism for small object detection on satellite images</data>
+  <data key="d4">H Gong, T Mu, Q Li, H Dai, C Li, Z He, W Wang, F Han…</data>
+  <data key="d5">2022</data>
+  <data key="d6">51</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9099615620722636165&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="10884589459641707712">
+  <data key="d0">Beyond self-attention: External attention using two linear layers for visual tasks</data>
+  <data key="d1">10884589459641707712</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9912362/</data>
+  <data key="d3">Beyond self-attention: External attention using two linear layers for visual tasks</data>
+  <data key="d4">MH Guo, ZN Liu, TJ Mu, SM Hu</data>
+  <data key="d5">2022</data>
+  <data key="d6">264</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=10884589459641707712&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="16262241741810610288">
+  <data key="d0">Deep learning for reconstructing protein structures from cryo-EM density maps: Recent advances and future directions</data>
+  <data key="d1">16262241741810610288</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S0959440X23000106</data>
+  <data key="d3">Deep learning for reconstructing protein structures from cryo-EM density maps: Recent advances and future directions</data>
+  <data key="d4">N Giri, RS Roy, J Cheng</data>
+  <data key="d5">2023</data>
+  <data key="d6">12</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=16262241741810610288&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="17062002127391260256">
+  <data key="d0">A unified multiscale learning framework for hyperspectral image classification</data>
+  <data key="d1">17062002127391260256</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9701344/</data>
+  <data key="d3">A unified multiscale learning framework for hyperspectral image classification</data>
+  <data key="d4">X Wang, K Tan, P Du, C Pan…</data>
+  <data key="d5">2022</data>
+  <data key="d6">26</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=17062002127391260256&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="2492869366552030070">
+  <data key="d0">Braingb: A benchmark for brain network analysis with graph neural networks</data>
+  <data key="d1">2492869366552030070</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9933896/</data>
+  <data key="d3">Braingb: A benchmark for brain network analysis with graph neural networks</data>
+  <data key="d4">H Cui, W Dai, Y Zhu, X Kan, AAC Gu…</data>
+  <data key="d5">2022</data>
+  <data key="d6">29</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=2492869366552030070&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="2308320307881605474">
+  <data key="d0">Attention-based deep meta-transfer learning for few-shot fine-grained fault diagnosis</data>
+  <data key="d1">2308320307881605474</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S0950705123000953</data>
+  <data key="d3">Attention-based deep meta-transfer learning for few-shot fine-grained fault diagnosis</data>
+  <data key="d4">C Li, S Li, H Wang, F Gu, AD Ball</data>
+  <data key="d5">2023</data>
+  <data key="d6">15</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=2308320307881605474&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="28694845113345021">
+  <data key="d0">Study of the automatic recognition of landslides by using InSAR images and the improved mask R-CNN model in the Eastern Tibet Plateau</data>
+  <data key="d1">28694845113345021</data>
+  <data key="d2">https://www.mdpi.com/2072-4292/14/14/3362</data>
+  <data key="d3">Study of the automatic recognition of landslides by using InSAR images and the improved mask R-CNN model in the Eastern Tibet Plateau</data>
+  <data key="d4">Y Liu, X Yao, Z Gu, Z Zhou, X Liu, X Chen, S Wei</data>
+  <data key="d5">2022</data>
+  <data key="d6">16</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=28694845113345021&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="9917302194767651380">
+  <data key="d0">An improved apple object detection method based on lightweight YOLOv4 in complex backgrounds</data>
+  <data key="d1">9917302194767651380</data>
+  <data key="d2">https://www.mdpi.com/2072-4292/14/17/4150</data>
+  <data key="d3">An improved apple object detection method based on lightweight YOLOv4 in complex backgrounds</data>
+  <data key="d4">C Zhang, F Kang, Y Wang</data>
+  <data key="d5">2022</data>
+  <data key="d6">19</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9917302194767651380&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="8402450993508627791">
+  <data key="d0">Large-scale multi-modal pre-trained models: A comprehensive survey</data>
+  <data key="d1">8402450993508627791</data>
+  <data key="d2">https://link.springer.com/article/10.1007/s11633-022-1410-8</data>
+  <data key="d3">Large-scale multi-modal pre-trained models: A comprehensive survey</data>
+  <data key="d4">X Wang, G Chen, G Qian, P Gao, XY Wei…</data>
+  <data key="d5">2023</data>
+  <data key="d6">18</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=8402450993508627791&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="17059844040400317816">
+  <data key="d0">YOLOv5-Fog: A multiobjective visual detection algorithm for fog driving scenes based on improved YOLOv5</data>
+  <data key="d1">17059844040400317816</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9851677/</data>
+  <data key="d3">YOLOv5-Fog: A multiobjective visual detection algorithm for fog driving scenes based on improved YOLOv5</data>
+  <data key="d4">H Wang, Y Xu, Y He, Y Cai, L Chen, Y Li…</data>
+  <data key="d5">2022</data>
+  <data key="d6">20</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=17059844040400317816&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="1609101033275109223">
+  <data key="d0">AGs-Unet: Building Extraction Model for High Resolution Remote Sensing Images Based on Attention Gates U Network</data>
+  <data key="d1">1609101033275109223</data>
+  <data key="d2">https://www.mdpi.com/1424-8220/22/8/2932</data>
+  <data key="d3">AGs-Unet: Building Extraction Model for High Resolution Remote Sensing Images Based on Attention Gates U Network</data>
+  <data key="d4">M Yu, X Chen, W Zhang, Y Liu</data>
+  <data key="d5">2022</data>
+  <data key="d6">17</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=1609101033275109223&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="9226375279866402413">
+  <data key="d0">Generating transferable adversarial examples against vision transformers</data>
+  <data key="d1">9226375279866402413</data>
+  <data key="d2">https://dl.acm.org/doi/abs/10.1145/3503161.3547989</data>
+  <data key="d3">Generating transferable adversarial examples against vision transformers</data>
+  <data key="d4">Y Wang, J Wang, Z Yin, R Gong, J Wang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">10</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9226375279866402413&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">5</data>
+</node>
+<node id="7749897961068121501">
+  <data key="d0">A survey of transformers</data>
+  <data key="d1">7749897961068121501</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S2666651022000146</data>
+  <data key="d3">A survey of transformers</data>
+  <data key="d4">T Lin, Y Wang, X Liu, X Qiu</data>
+  <data key="d5">2022</data>
+  <data key="d6">477</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=7749897961068121501&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="1539076789580815483">
+  <data key="d0">Pre-trained models for natural language processing: A survey</data>
+  <data key="d1">1539076789580815483</data>
+  <data key="d2">https://link.springer.com/article/10.1007/s11431-020-1647-3</data>
+  <data key="d3">Pre-trained models for natural language processing: A survey</data>
+  <data key="d4">X Qiu, T Sun, Y Xu, Y Shao, N Dai, X Huang</data>
+  <data key="d5">2020</data>
+  <data key="d6">1177</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=1539076789580815483&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="966567457136989804">
+  <data key="d0">Pre-trained models: Past, present and future</data>
+  <data key="d1">966567457136989804</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S2666651021000231</data>
+  <data key="d3">Pre-trained models: Past, present and future</data>
+  <data key="d4">X Han, Z Zhang, N Ding, Y Gu, X Liu, Y Huo, J Qiu…</data>
+  <data key="d5">2021</data>
+  <data key="d6">360</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=966567457136989804&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="10761248177036470713">
+  <data key="d0">Multimodal learning with transformers: A survey</data>
+  <data key="d1">10761248177036470713</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/10123038/</data>
+  <data key="d3">Multimodal learning with transformers: A survey</data>
+  <data key="d4">P Xu, X Zhu, DA Clifton</data>
+  <data key="d5">2023</data>
+  <data key="d6">107</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=10761248177036470713&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="14136709172791920331">
+  <data key="d0">A survey of visual transformers</data>
+  <data key="d1">14136709172791920331</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/10088164/</data>
+  <data key="d3">A survey of visual transformers</data>
+  <data key="d4">Y Liu, Y Zhang, Y Wang, F Hou, J Yuan…</data>
+  <data key="d5">2023</data>
+  <data key="d6">104</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=14136709172791920331&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="13597902966753793310">
+  <data key="d0">Recent advances in deep learning based dialogue systems: A systematic survey</data>
+  <data key="d1">13597902966753793310</data>
+  <data key="d2">https://link.springer.com/article/10.1007/s10462-022-10248-8</data>
+  <data key="d3">Recent advances in deep learning based dialogue systems: A systematic survey</data>
+  <data key="d4">J Ni, T Young, V Pandelea, F Xue…</data>
+  <data key="d5">2023</data>
+  <data key="d6">121</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=13597902966753793310&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="4431578198915484435">
+  <data key="d0">Ammus: A survey of transformer-based pretrained models in natural language processing</data>
+  <data key="d1">4431578198915484435</data>
+  <data key="d2">https://arxiv.org/abs/2108.05542</data>
+  <data key="d3">Ammus: A survey of transformer-based pretrained models in natural language processing</data>
+  <data key="d4">KS Kalyan, A Rajasekharan, S Sangeetha</data>
+  <data key="d5">2021</data>
+  <data key="d6">141</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=4431578198915484435&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="2600515932282922845">
+  <data key="d0">ChatGPT: Jack of all trades, master of none</data>
+  <data key="d1">2600515932282922845</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S156625352300177X</data>
+  <data key="d3">ChatGPT: Jack of all trades, master of none</data>
+  <data key="d4">J Kocoń, I Cichecki, O Kaszyca, M Kochanek, D Szydło…</data>
+  <data key="d5">2023</data>
+  <data key="d6">63</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=2600515932282922845&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="8053588590478703627">
+  <data key="d0">Physformer: Facial video-based physiological measurement with temporal difference transformer</data>
+  <data key="d1">8053588590478703627</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Yu_PhysFormer_Facial_Video-Based_Physiological_Measurement_With_Temporal_Difference_Transformer_CVPR_2022_paper.html</data>
+  <data key="d3">Physformer: Facial video-based physiological measurement with temporal difference transformer</data>
+  <data key="d4">Z Yu, Y Shen, J Shi, H Zhao…</data>
+  <data key="d5">2022</data>
+  <data key="d6">54</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=8053588590478703627&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="15393921212791157727">
+  <data key="d0">ChatGPT is not all you need. A State of the Art Review of large Generative AI models</data>
+  <data key="d1">15393921212791157727</data>
+  <data key="d2">https://arxiv.org/abs/2301.04655</data>
+  <data key="d3">ChatGPT is not all you need. A State of the Art Review of large Generative AI models</data>
+  <data key="d4">R Gozalo-Brizuela, EC Garrido-Merchan</data>
+  <data key="d5">2023</data>
+  <data key="d6">80</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=15393921212791157727&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="7420567692305480707">
+  <data key="d0">Glycoinformatics in the artificial intelligence era</data>
+  <data key="d1">7420567692305480707</data>
+  <data key="d2">https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.2c00110</data>
+  <data key="d3">Glycoinformatics in the artificial intelligence era</data>
+  <data key="d4">D Bojar, F Lisacek</data>
+  <data key="d5">2022</data>
+  <data key="d6">9</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=7420567692305480707&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="3878971468388928610">
+  <data key="d0">Deep learning for depression recognition with audiovisual cues: A review</data>
+  <data key="d1">3878971468388928610</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S1566253521002207</data>
+  <data key="d3">Deep learning for depression recognition with audiovisual cues: A review</data>
+  <data key="d4">L He, M Niu, P Tiwari, P Marttinen, R Su, J Jiang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">62</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=3878971468388928610&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="9919738130893761480">
+  <data key="d0">Museformer: Transformer with fine-and coarse-grained attention for music generation</data>
+  <data key="d1">9919738130893761480</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2022/hash/092c2d45005ea2db40fc24c470663416-Abstract-Conference.html</data>
+  <data key="d3">Museformer: Transformer with fine-and coarse-grained attention for music generation</data>
+  <data key="d4">B Yu, P Lu, R Wang, W Hu, X Tan…</data>
+  <data key="d5">2022</data>
+  <data key="d6">12</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9919738130893761480&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="15926311935982020340">
+  <data key="d0">Video transformers: A survey</data>
+  <data key="d1">15926311935982020340</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/10041724/</data>
+  <data key="d3">Video transformers: A survey</data>
+  <data key="d4">J Selva, AS Johansen, S Escalera…</data>
+  <data key="d5">2023</data>
+  <data key="d6">41</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=15926311935982020340&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="836183377042488989">
+  <data key="d0">KNN-contrastive learning for out-of-domain intent classification</data>
+  <data key="d1">836183377042488989</data>
+  <data key="d2">https://aclanthology.org/2022.acl-long.352/</data>
+  <data key="d3">KNN-contrastive learning for out-of-domain intent classification</data>
+  <data key="d4">Y Zhou, P Liu, X Qiu</data>
+  <data key="d5">2022</data>
+  <data key="d6">31</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=836183377042488989&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="17269928898680478649">
+  <data key="d0">Contrast and generation make bart a good dialogue emotion recognizer</data>
+  <data key="d1">17269928898680478649</data>
+  <data key="d2">https://ojs.aaai.org/index.php/AAAI/article/view/21348</data>
+  <data key="d3">Contrast and generation make bart a good dialogue emotion recognizer</data>
+  <data key="d4">S Li, H Yan, X Qiu</data>
+  <data key="d5">2022</data>
+  <data key="d6">34</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=17269928898680478649&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="6376642340831106711">
+  <data key="d0">Dual-aspect self-attention based on transformer for remaining useful life prediction</data>
+  <data key="d1">6376642340831106711</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9737516/</data>
+  <data key="d3">Dual-aspect self-attention based on transformer for remaining useful life prediction</data>
+  <data key="d4">Z Zhang, W Song, Q Li</data>
+  <data key="d5">2022</data>
+  <data key="d6">53</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=6376642340831106711&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="12806372482493631350">
+  <data key="d0">Deltar: Depth estimation from a light-weight tof sensor and rgb image</data>
+  <data key="d1">12806372482493631350</data>
+  <data key="d2">https://link.springer.com/chapter/10.1007/978-3-031-19769-7_36</data>
+  <data key="d3">Deltar: Depth estimation from a light-weight tof sensor and rgb image</data>
+  <data key="d4">Y Li, X Liu, W Dong, H Zhou, H Bao, G Zhang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">7</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=12806372482493631350&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="2160563741249466913">
+  <data key="d0">A Transformer-based deep neural network model for SSVEP classification</data>
+  <data key="d1">2160563741249466913</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S0893608023002319</data>
+  <data key="d3">A Transformer-based deep neural network model for SSVEP classification</data>
+  <data key="d4">J Chen, Y Zhang, Y Pan, P Xu, C Guan</data>
+  <data key="d5">2023</data>
+  <data key="d6">7</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=2160563741249466913&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">6</data>
+</node>
+<node id="16431204865977056518">
+  <data key="d0">Restormer: Efficient transformer for high-resolution image restoration</data>
+  <data key="d1">16431204865977056518</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.html</data>
+  <data key="d3">Restormer: Efficient transformer for high-resolution image restoration</data>
+  <data key="d4">SW Zamir, A Arora, S Khan, M Hayat…</data>
+  <data key="d5">2022</data>
+  <data key="d6">683</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=16431204865977056518&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="16932998913230259066">
+  <data key="d0">NTIRE 2023 challenge on efficient super-resolution: Methods and results</data>
+  <data key="d1">16932998913230259066</data>
+  <data key="d2">https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.html</data>
+  <data key="d3">NTIRE 2023 challenge on efficient super-resolution: Methods and results</data>
+  <data key="d4">Y Li, Y Zhang, R Timofte, L Van Gool…</data>
+  <data key="d5">2023</data>
+  <data key="d6">73</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=16932998913230259066&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="498268664873674535">
+  <data key="d0">Simple baselines for image restoration</data>
+  <data key="d1">498268664873674535</data>
+  <data key="d2">https://link.springer.com/chapter/10.1007/978-3-031-20071-7_2</data>
+  <data key="d3">Simple baselines for image restoration</data>
+  <data key="d4">L Chen, X Chu, X Zhang, J Sun</data>
+  <data key="d5">2022</data>
+  <data key="d6">234</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=498268664873674535&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="9110410135628850117">
+  <data key="d0">Lens-to-lens bokeh effect transformation. NTIRE 2023 challenge report</data>
+  <data key="d1">9110410135628850117</data>
+  <data key="d2">https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Conde_Lens-to-Lens_Bokeh_Effect_Transformation._NTIRE_2023_Challenge_Report_CVPRW_2023_paper.html</data>
+  <data key="d3">Lens-to-lens bokeh effect transformation. NTIRE 2023 challenge report</data>
+  <data key="d4">MV Conde, M Kolmet, T Seizinger…</data>
+  <data key="d5">2023</data>
+  <data key="d6">17</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9110410135628850117&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="7710701073211724386">
+  <data key="d0">NTIRE 2023 video colorization challenge</data>
+  <data key="d1">7710701073211724386</data>
+  <data key="d2">https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Kang_NTIRE_2023_Video_Colorization_Challenge_CVPRW_2023_paper.html</data>
+  <data key="d3">NTIRE 2023 video colorization challenge</data>
+  <data key="d4">X Kang, X Lin, K Zhang, Z Hui…</data>
+  <data key="d5">2023</data>
+  <data key="d6">14</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=7710701073211724386&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="13272942409666364496">
+  <data key="d0">NTIRE 2023 Challenge on 360deg Omnidirectional Image and Video Super-Resolution: Datasets, Methods and Results</data>
+  <data key="d1">13272942409666364496</data>
+  <data key="d2">https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Cao_NTIRE_2023_Challenge_on_360deg_Omnidirectional_Image_and_Video_Super-Resolution_CVPRW_2023_paper.html</data>
+  <data key="d3">NTIRE 2023 Challenge on 360deg Omnidirectional Image and Video Super-Resolution: Datasets, Methods and Results</data>
+  <data key="d4">M Cao, C Mou, F Yu, X Wang…</data>
+  <data key="d5">2023</data>
+  <data key="d6">15</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=13272942409666364496&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="12297468854729392143">
+  <data key="d0">NTIRE 2023 challenge on image denoising: Methods and results</data>
+  <data key="d1">12297468854729392143</data>
+  <data key="d2">https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Image_Denoising_Methods_and_Results_CVPRW_2023_paper.html</data>
+  <data key="d3">NTIRE 2023 challenge on image denoising: Methods and results</data>
+  <data key="d4">Y Li, Y Zhang, R Timofte, L Van Gool…</data>
+  <data key="d5">2023</data>
+  <data key="d6">12</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=12297468854729392143&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="5364344454304770774">
+  <data key="d0">NTIRE 2023 challenge on night photography rendering</data>
+  <data key="d1">5364344454304770774</data>
+  <data key="d2">https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Shutova_NTIRE_2023_Challenge_on_Night_Photography_Rendering_CVPRW_2023_paper.html</data>
+  <data key="d3">NTIRE 2023 challenge on night photography rendering</data>
+  <data key="d4">A Shutova, E Ershov…</data>
+  <data key="d5">2023</data>
+  <data key="d6">13</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=5364344454304770774&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="3464402829187061665">
+  <data key="d0">Efficient long-range attention network for image super-resolution</data>
+  <data key="d1">3464402829187061665</data>
+  <data key="d2">https://link.springer.com/chapter/10.1007/978-3-031-19790-1_39</data>
+  <data key="d3">Efficient long-range attention network for image super-resolution</data>
+  <data key="d4">X Zhang, H Zeng, S Guo, L Zhang</data>
+  <data key="d5">2022</data>
+  <data key="d6">70</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=3464402829187061665&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="15226748689642581218">
+  <data key="d0">Cddfuse: Correlation-driven dual-branch feature decomposition for multi-modality image fusion</data>
+  <data key="d1">15226748689642581218</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2023/html/Zhao_CDDFuse_Correlation-Driven_Dual-Branch_Feature_Decomposition_for_Multi-Modality_Image_Fusion_CVPR_2023_paper.html</data>
+  <data key="d3">Cddfuse: Correlation-driven dual-branch feature decomposition for multi-modality image fusion</data>
+  <data key="d4">Z Zhao, H Bai, J Zhang, Y Zhang, S Xu…</data>
+  <data key="d5">2023</data>
+  <data key="d6">23</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=15226748689642581218&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="4776651674359042439">
+  <data key="d0">Mst++: Multi-stage spectral-wise transformer for efficient spectral reconstruction</data>
+  <data key="d1">4776651674359042439</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Cai_MST_Multi-Stage_Spectral-Wise_Transformer_for_Efficient_Spectral_Reconstruction_CVPRW_2022_paper.html</data>
+  <data key="d3">Mst++: Multi-stage spectral-wise transformer for efficient spectral reconstruction</data>
+  <data key="d4">Y Cai, J Lin, Z Lin, H Wang, Y Zhang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">40</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=4776651674359042439&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="278490733091580759">
+  <data key="d0">Learning enriched features for fast image restoration and enhancement</data>
+  <data key="d1">278490733091580759</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9756908/</data>
+  <data key="d3">Learning enriched features for fast image restoration and enhancement</data>
+  <data key="d4">SW Zamir, A Arora, S Khan, M Hayat…</data>
+  <data key="d5">2022</data>
+  <data key="d6">55</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=278490733091580759&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="1598910218006932443">
+  <data key="d0">Aim 2022 challenge on super-resolution of compressed image and video: Dataset, methods and results</data>
+  <data key="d1">1598910218006932443</data>
+  <data key="d2">https://link.springer.com/chapter/10.1007/978-3-031-25066-8_8</data>
+  <data key="d3">Aim 2022 challenge on super-resolution of compressed image and video: Dataset, methods and results</data>
+  <data key="d4">R Yang, R Timofte, X Li, Q Zhang, L Zhang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">22</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=1598910218006932443&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="13813872909195716054">
+  <data key="d0">Rethinking alignment in video super-resolution transformers</data>
+  <data key="d1">13813872909195716054</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2022/hash/ea4d65c59073e8faf79222654d25fbe2-Abstract-Conference.html</data>
+  <data key="d3">Rethinking alignment in video super-resolution transformers</data>
+  <data key="d4">S Shi, J Gu, L Xie, X Wang, Y Yang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">14</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=13813872909195716054&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="3715909162805048662">
+  <data key="d0">Maniqa: Multi-dimension attention network for no-reference image quality assessment</data>
+  <data key="d1">3715909162805048662</data>
+  <data key="d2">https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Yang_MANIQA_Multi-Dimension_Attention_Network_for_No-Reference_Image_Quality_Assessment_CVPRW_2022_paper.html</data>
+  <data key="d3">Maniqa: Multi-dimension attention network for no-reference image quality assessment</data>
+  <data key="d4">S Yang, T Wu, S Shi, S Lao, Y Gong…</data>
+  <data key="d5">2022</data>
+  <data key="d6">50</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=3715909162805048662&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="8627981696317437595">
+  <data key="d0">NTIRE 2023 challenge on stereo image super-resolution: Methods and results</data>
+  <data key="d1">8627981696317437595</data>
+  <data key="d2">https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Wang_NTIRE_2023_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.html</data>
+  <data key="d3">NTIRE 2023 challenge on stereo image super-resolution: Methods and results</data>
+  <data key="d4">L Wang, Y Guo, Y Wang, J Li, S Gu…</data>
+  <data key="d5">2023</data>
+  <data key="d6">23</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=8627981696317437595&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="11308628305789992240">
+  <data key="d0">Self-supervised video transformer</data>
+  <data key="d1">11308628305789992240</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.html</data>
+  <data key="d3">Self-supervised video transformer</data>
+  <data key="d4">K Ranasinghe, M Naseer, S Khan…</data>
+  <data key="d5">2022</data>
+  <data key="d6">48</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=11308628305789992240&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="2900405794489939688">
+  <data key="d0">Coarse-to-fine sparse transformer for hyperspectral image reconstruction</data>
+  <data key="d1">2900405794489939688</data>
+  <data key="d2">https://link.springer.com/chapter/10.1007/978-3-031-19790-1_41</data>
+  <data key="d3">Coarse-to-fine sparse transformer for hyperspectral image reconstruction</data>
+  <data key="d4">Y Cai, J Lin, X Hu, H Wang, X Yuan, Y Zhang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">41</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=2900405794489939688&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="1292725169895823488">
+  <data key="d0">Pyramid Attention Network for Image Restoration</data>
+  <data key="d1">1292725169895823488</data>
+  <data key="d2">https://link.springer.com/article/10.1007/s11263-023-01843-5</data>
+  <data key="d3">Pyramid Attention Network for Image Restoration</data>
+  <data key="d4">Y Mei, Y Fan, Y Zhang, J Yu, Y Zhou, D Liu…</data>
+  <data key="d5">2023</data>
+  <data key="d6">123</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=1292725169895823488&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="14640072730760349377">
+  <data key="d0">NTIRE 2022 challenge on perceptual image quality assessment</data>
+  <data key="d1">14640072730760349377</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Gu_NTIRE_2022_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2022_paper.html</data>
+  <data key="d3">NTIRE 2022 challenge on perceptual image quality assessment</data>
+  <data key="d4">J Gu, H Cai, C Dong, JS Ren…</data>
+  <data key="d5">2022</data>
+  <data key="d6">68</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=14640072730760349377&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="10110104334022835757">
+  <data key="d0">Coatnet: Marrying convolution and attention for all data sizes</data>
+  <data key="d1">10110104334022835757</data>
+  <data key="d2">https://proceedings.neurips.cc/paper/2021/hash/20568692db622456cc42a2e853ca21f8-Abstract.html</data>
+  <data key="d3">Coatnet: Marrying convolution and attention for all data sizes</data>
+  <data key="d4">Z Dai, H Liu, QV Le, M Tan</data>
+  <data key="d5">2021</data>
+  <data key="d6">704</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=10110104334022835757&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="14443907969977981621">
+  <data key="d0">A convnet for the 2020s</data>
+  <data key="d1">14443907969977981621</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html</data>
+  <data key="d3">A convnet for the 2020s</data>
+  <data key="d4">Z Liu, H Mao, CY Wu, C Feichtenhofer…</data>
+  <data key="d5">2022</data>
+  <data key="d6">2126</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=14443907969977981621&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="13501013621324561884">
+  <data key="d0">Scaling vision transformers</data>
+  <data key="d1">13501013621324561884</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Zhai_Scaling_Vision_Transformers_CVPR_2022_paper.html</data>
+  <data key="d3">Scaling vision transformers</data>
+  <data key="d4">X Zhai, A Kolesnikov, N Houlsby…</data>
+  <data key="d5">2022</data>
+  <data key="d6">561</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=13501013621324561884&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="13629397900287809862">
+  <data key="d0">Coca: Contrastive captioners are image-text foundation models</data>
+  <data key="d1">13629397900287809862</data>
+  <data key="d2">https://arxiv.org/abs/2205.01917</data>
+  <data key="d3">Coca: Contrastive captioners are image-text foundation models</data>
+  <data key="d4">J Yu, Z Wang, V Vasudevan, L Yeung…</data>
+  <data key="d5">2022</data>
+  <data key="d6">470</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=13629397900287809862&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="1273811038957334386">
+  <data key="d0">Mvitv2: Improved multiscale vision transformers for classification and detection</data>
+  <data key="d1">1273811038957334386</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Li_MViTv2_Improved_Multiscale_Vision_Transformers_for_Classification_and_Detection_CVPR_2022_paper.html</data>
+  <data key="d3">Mvitv2: Improved multiscale vision transformers for classification and detection</data>
+  <data key="d4">Y Li, CY Wu, H Fan, K Mangalam…</data>
+  <data key="d5">2022</data>
+  <data key="d6">278</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=1273811038957334386&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="610621467807251926">
+  <data key="d0">Inception transformer</data>
+  <data key="d1">610621467807251926</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2022/hash/94e85561a342de88b559b72c9b29f638-Abstract-Conference.html</data>
+  <data key="d3">Inception transformer</data>
+  <data key="d4">C Si, W Yu, P Zhou, Y Zhou…</data>
+  <data key="d5">2022</data>
+  <data key="d6">145</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=610621467807251926&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="18380770342348927722">
+  <data key="d0">Lit: Zero-shot transfer with locked-image text tuning</data>
+  <data key="d1">18380770342348927722</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Zhai_LiT_Zero-Shot_Transfer_With_Locked-Image_Text_Tuning_CVPR_2022_paper.html</data>
+  <data key="d3">Lit: Zero-shot transfer with locked-image text tuning</data>
+  <data key="d4">X Zhai, X Wang, B Mustafa, A Steiner…</data>
+  <data key="d5">2022</data>
+  <data key="d6">227</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=18380770342348927722&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="9618435703828650575">
+  <data key="d0">Simvlm: Simple visual language model pretraining with weak supervision</data>
+  <data key="d1">9618435703828650575</data>
+  <data key="d2">https://arxiv.org/abs/2108.10904</data>
+  <data key="d3">Simvlm: Simple visual language model pretraining with weak supervision</data>
+  <data key="d4">Z Wang, J Yu, AW Yu, Z Dai, Y Tsvetkov…</data>
+  <data key="d5">2021</data>
+  <data key="d6">448</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9618435703828650575&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="17870066505440679476">
+  <data key="d0">Conditional positional encodings for vision transformers</data>
+  <data key="d1">17870066505440679476</data>
+  <data key="d2">https://arxiv.org/abs/2102.10882</data>
+  <data key="d3">Conditional positional encodings for vision transformers</data>
+  <data key="d4">X Chu, Z Tian, B Zhang, X Wang, X Wei, H Xia…</data>
+  <data key="d5">2021</data>
+  <data key="d6">368</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=17870066505440679476&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="10588342779298269046">
+  <data key="d0">Eva: Exploring the limits of masked visual representation learning at scale</data>
+  <data key="d1">10588342779298269046</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2023/html/Fang_EVA_Exploring_the_Limits_of_Masked_Visual_Representation_Learning_at_CVPR_2023_paper.html</data>
+  <data key="d3">Eva: Exploring the limits of masked visual representation learning at scale</data>
+  <data key="d4">Y Fang, W Wang, B Xie, Q Sun, L Wu…</data>
+  <data key="d5">2023</data>
+  <data key="d6">101</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=10588342779298269046&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="6784655767122395745">
+  <data key="d0">Maxvit: Multi-axis vision transformer</data>
+  <data key="d1">6784655767122395745</data>
+  <data key="d2">https://link.springer.com/chapter/10.1007/978-3-031-20053-3_27</data>
+  <data key="d3">Maxvit: Multi-axis vision transformer</data>
+  <data key="d4">Z Tu, H Talebi, H Zhang, F Yang, P Milanfar…</data>
+  <data key="d5">2022</data>
+  <data key="d6">158</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=6784655767122395745&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="6118595289890500680">
+  <data key="d0">Internimage: Exploring large-scale vision foundation models with deformable convolutions</data>
+  <data key="d1">6118595289890500680</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2023/html/Wang_InternImage_Exploring_Large-Scale_Vision_Foundation_Models_With_Deformable_Convolutions_CVPR_2023_paper.html</data>
+  <data key="d3">Internimage: Exploring large-scale vision foundation models with deformable convolutions</data>
+  <data key="d4">W Wang, J Dai, Z Chen, Z Huang, Z Li…</data>
+  <data key="d5">2023</data>
+  <data key="d6">113</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=6118595289890500680&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="12938213222665733645">
+  <data key="d0">Hornet: Efficient high-order spatial interactions with recursive gated convolutions</data>
+  <data key="d1">12938213222665733645</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2022/hash/436d042b2dd81214d23ae43eb196b146-Abstract-Conference.html</data>
+  <data key="d3">Hornet: Efficient high-order spatial interactions with recursive gated convolutions</data>
+  <data key="d4">Y Rao, W Zhao, Y Tang, J Zhou…</data>
+  <data key="d5">2022</data>
+  <data key="d6">99</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=12938213222665733645&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="1388490151733704334">
+  <data key="d0">Convnext v2: Co-designing and scaling convnets with masked autoencoders</data>
+  <data key="d1">1388490151733704334</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2023/html/Woo_ConvNeXt_V2_Co-Designing_and_Scaling_ConvNets_With_Masked_Autoencoders_CVPR_2023_paper.html</data>
+  <data key="d3">Convnext v2: Co-designing and scaling convnets with masked autoencoders</data>
+  <data key="d4">S Woo, S Debnath, R Hu, X Chen…</data>
+  <data key="d5">2023</data>
+  <data key="d6">61</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=1388490151733704334&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="18356109755771918503">
+  <data key="d0">Davit: Dual attention vision transformers</data>
+  <data key="d1">18356109755771918503</data>
+  <data key="d2">https://link.springer.com/chapter/10.1007/978-3-031-20053-3_5</data>
+  <data key="d3">Davit: Dual attention vision transformers</data>
+  <data key="d4">M Ding, B Xiao, N Codella, P Luo, J Wang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">93</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=18356109755771918503&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="15188717593606933557">
+  <data key="d0">Patches are all you need?</data>
+  <data key="d1">15188717593606933557</data>
+  <data key="d2">https://arxiv.org/abs/2201.09792</data>
+  <data key="d3">Patches are all you need?</data>
+  <data key="d4">A Trockman, JZ Kolter</data>
+  <data key="d5">2022</data>
+  <data key="d6">221</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=15188717593606933557&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="12692106295877813680">
+  <data key="d0">Efficientformer: Vision transformers at mobilenet speed</data>
+  <data key="d1">12692106295877813680</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2022/hash/5452ad8ee6ea6e7dc41db1cbd31ba0b8-Abstract-Conference.html</data>
+  <data key="d3">Efficientformer: Vision transformers at mobilenet speed</data>
+  <data key="d4">Y Li, G Yuan, Y Wen, J Hu…</data>
+  <data key="d5">2022</data>
+  <data key="d6">86</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=12692106295877813680&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="1854387804616571098">
+  <data key="d0">Pure transformers are powerful graph learners</data>
+  <data key="d1">1854387804616571098</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2022/hash/5d84236751fe6d25dc06db055a3180b0-Abstract-Conference.html</data>
+  <data key="d3">Pure transformers are powerful graph learners</data>
+  <data key="d4">J Kim, D Nguyen, S Min, S Cho…</data>
+  <data key="d5">2022</data>
+  <data key="d6">54</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=1854387804616571098&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">2</data>
+</node>
+<node id="14988305211504802629">
+  <data key="d0">Multi-stage progressive image restoration</data>
+  <data key="d1">14988305211504802629</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2021/html/Zamir_Multi-Stage_Progressive_Image_Restoration_CVPR_2021_paper.html</data>
+  <data key="d3">Multi-stage progressive image restoration</data>
+  <data key="d4">SW Zamir, A Arora, S Khan, M Hayat…</data>
+  <data key="d5">2021</data>
+  <data key="d6">860</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=14988305211504802629&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="14031000766044293652">
+  <data key="d0">Uformer: A general u-shaped transformer for image restoration</data>
+  <data key="d1">14031000766044293652</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Wang_Uformer_A_General_U-Shaped_Transformer_for_Image_Restoration_CVPR_2022_paper.html</data>
+  <data key="d3">Uformer: A general u-shaped transformer for image restoration</data>
+  <data key="d4">Z Wang, X Cun, J Bao, W Zhou…</data>
+  <data key="d5">2022</data>
+  <data key="d6">599</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=14031000766044293652&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="16381083981417715623">
+  <data key="d0">Ntire 2022 spectral recovery challenge and data set</data>
+  <data key="d1">16381083981417715623</data>
+  <data key="d2">https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Arad_NTIRE_2022_Spectral_Recovery_Challenge_and_Data_Set_CVPRW_2022_paper.html</data>
+  <data key="d3">Ntire 2022 spectral recovery challenge and data set</data>
+  <data key="d4">B Arad, R Timofte, R Yahel, N Morag…</data>
+  <data key="d5">2022</data>
+  <data key="d6">39</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=16381083981417715623&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="6999508588420552953">
+  <data key="d0">NTIRE 2021 challenge on image deblurring</data>
+  <data key="d1">6999508588420552953</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.html</data>
+  <data key="d3">NTIRE 2021 challenge on image deblurring</data>
+  <data key="d4">S Nah, S Son, S Lee, R Timofte…</data>
+  <data key="d5">2021</data>
+  <data key="d6">60</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=6999508588420552953&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="18275282813589182456">
+  <data key="d0">Maxim: Multi-axis mlp for image processing</data>
+  <data key="d1">18275282813589182456</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Tu_MAXIM_Multi-Axis_MLP_for_Image_Processing_CVPR_2022_paper.html</data>
+  <data key="d3">Maxim: Multi-axis mlp for image processing</data>
+  <data key="d4">Z Tu, H Talebi, H Zhang, F Yang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">188</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=18275282813589182456&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="11948207786179445379">
+  <data key="d0">Rethinking coarse-to-fine approach in single image deblurring</data>
+  <data key="d1">11948207786179445379</data>
+  <data key="d2">https://openaccess.thecvf.com/content/ICCV2021/html/Cho_Rethinking_Coarse-To-Fine_Approach_in_Single_Image_Deblurring_ICCV_2021_paper.html?ref=https://githubhelp.com</data>
+  <data key="d3">Rethinking coarse-to-fine approach in single image deblurring</data>
+  <data key="d4">SJ Cho, SW Ji, JP Hong, SW Jung…</data>
+  <data key="d5">2021</data>
+  <data key="d6">271</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=11948207786179445379&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="2731814227384441305">
+  <data key="d0">Hinet: Half instance normalization network for image restoration</data>
+  <data key="d1">2731814227384441305</data>
+  <data key="d2">https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Chen_HINet_Half_Instance_Normalization_Network_for_Image_Restoration_CVPRW_2021_paper.html</data>
+  <data key="d3">Hinet: Half instance normalization network for image restoration</data>
+  <data key="d4">L Chen, X Lu, J Zhang, X Chu…</data>
+  <data key="d5">2021</data>
+  <data key="d6">240</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=2731814227384441305&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="563900006853828372">
+  <data key="d0">Transweather: Transformer-based restoration of images degraded by adverse weather conditions</data>
+  <data key="d1">563900006853828372</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Valanarasu_TransWeather_Transformer-Based_Restoration_of_Images_Degraded_by_Adverse_Weather_Conditions_CVPR_2022_paper.html</data>
+  <data key="d3">Transweather: Transformer-based restoration of images degraded by adverse weather conditions</data>
+  <data key="d4">JMJ Valanarasu, R Yasarla…</data>
+  <data key="d5">2022</data>
+  <data key="d6">90</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=563900006853828372&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="2892557376887066282">
+  <data key="d0">Deblurring via stochastic refinement</data>
+  <data key="d1">2892557376887066282</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Whang_Deblurring_via_Stochastic_Refinement_CVPR_2022_paper.html</data>
+  <data key="d3">Deblurring via stochastic refinement</data>
+  <data key="d4">J Whang, M Delbracio, H Talebi…</data>
+  <data key="d5">2022</data>
+  <data key="d6">88</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=2892557376887066282&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="10807347079650485654">
+  <data key="d0">All-in-one image restoration for unknown corruption</data>
+  <data key="d1">10807347079650485654</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Li_All-in-One_Image_Restoration_for_Unknown_Corruption_CVPR_2022_paper.html</data>
+  <data key="d3">All-in-one image restoration for unknown corruption</data>
+  <data key="d4">B Li, X Liu, P Hu, Z Wu, J Lv…</data>
+  <data key="d5">2022</data>
+  <data key="d6">72</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=10807347079650485654&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="8278982060432150337">
+  <data key="d0">Images speak in images: A generalist painter for in-context visual learning</data>
+  <data key="d1">8278982060432150337</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2023/html/Wang_Images_Speak_in_Images_A_Generalist_Painter_for_In-Context_Visual_CVPR_2023_paper.html</data>
+  <data key="d3">Images speak in images: A generalist painter for in-context visual learning</data>
+  <data key="d4">X Wang, W Wang, Y Cao, C Shen…</data>
+  <data key="d5">2023</data>
+  <data key="d6">31</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=8278982060432150337&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="9248261167097334152">
+  <data key="d0">Vrt: A video restoration transformer</data>
+  <data key="d1">9248261167097334152</data>
+  <data key="d2">https://arxiv.org/abs/2201.12288</data>
+  <data key="d3">Vrt: A video restoration transformer</data>
+  <data key="d4">J Liang, J Cao, Y Fan, K Zhang, R Ranjan, Y Li…</data>
+  <data key="d5">2022</data>
+  <data key="d6">99</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9248261167097334152&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="7494856167361955847">
+  <data key="d0">Deep generalized unfolding networks for image restoration</data>
+  <data key="d1">7494856167361955847</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Mou_Deep_Generalized_Unfolding_Networks_for_Image_Restoration_CVPR_2022_paper.html</data>
+  <data key="d3">Deep generalized unfolding networks for image restoration</data>
+  <data key="d4">C Mou, Q Wang, J Zhang</data>
+  <data key="d5">2022</data>
+  <data key="d6">68</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=7494856167361955847&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="6389162819004784674">
+  <data key="d0">Learning multiple adverse weather removal via two-stage knowledge learning and multi-contrastive regularization: Toward a unified model</data>
+  <data key="d1">6389162819004784674</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.html</data>
+  <data key="d3">Learning multiple adverse weather removal via two-stage knowledge learning and multi-contrastive regularization: Toward a unified model</data>
+  <data key="d4">WT Chen, ZK Huang, CC Tsai…</data>
+  <data key="d5">2022</data>
+  <data key="d6">39</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=6389162819004784674&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="10294262589674995487">
+  <data key="d0">Cross Aggregation Transformer for Image Restoration</data>
+  <data key="d1">10294262589674995487</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2022/hash/a37fea8e67f907311826bc1ba2654d97-Abstract-Conference.html</data>
+  <data key="d3">Cross Aggregation Transformer for Image Restoration</data>
+  <data key="d4">Z Chen, Y Zhang, J Gu, L Kong…</data>
+  <data key="d5">2022</data>
+  <data key="d6">19</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=10294262589674995487&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="7561375020407203939">
+  <data key="d0">Improving image restoration by revisiting global information aggregation</data>
+  <data key="d1">7561375020407203939</data>
+  <data key="d2">https://link.springer.com/chapter/10.1007/978-3-031-20071-7_4</data>
+  <data key="d3">Improving image restoration by revisiting global information aggregation</data>
+  <data key="d4">X Chu, L Chen, C Chen, X Lu</data>
+  <data key="d5">2022</data>
+  <data key="d6">39</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=7561375020407203939&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">0</data>
+</node>
+<node id="15635397108812213817">
+  <data key="d0">Transreid: Transformer-based object re-identification</data>
+  <data key="d1">15635397108812213817</data>
+  <data key="d2">http://openaccess.thecvf.com/content/ICCV2021/html/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.html</data>
+  <data key="d3">Transreid: Transformer-based object re-identification</data>
+  <data key="d4">S He, H Luo, P Wang, F Wang, H Li…</data>
+  <data key="d5">2021</data>
+  <data key="d6">495</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=15635397108812213817&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="7329647594369932315">
+  <data key="d0">Multiscale vision transformers</data>
+  <data key="d1">7329647594369932315</data>
+  <data key="d2">http://openaccess.thecvf.com/content/ICCV2021/html/Fan_Multiscale_Vision_Transformers_ICCV_2021_paper.html</data>
+  <data key="d3">Multiscale vision transformers</data>
+  <data key="d4">H Fan, B Xiong, K Mangalam, Y Li…</data>
+  <data key="d5">2021</data>
+  <data key="d6">1596</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=7329647594369932315&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="4431453089685809340">
+  <data key="d0">Cswin transformer: A general vision transformer backbone with cross-shaped windows</data>
+  <data key="d1">4431453089685809340</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Dong_CSWin_Transformer_A_General_Vision_Transformer_Backbone_With_Cross-Shaped_Windows_CVPR_2022_paper.html</data>
+  <data key="d3">Cswin transformer: A general vision transformer backbone with cross-shaped windows</data>
+  <data key="d4">X Dong, J Bao, D Chen, W Zhang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">479</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=4431453089685809340&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="4278610892084589339">
+  <data key="d0">A survey on vision transformer</data>
+  <data key="d1">4278610892084589339</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9716741/</data>
+  <data key="d3">A survey on vision transformer</data>
+  <data key="d4">K Han, Y Wang, H Chen, X Chen, J Guo…</data>
+  <data key="d5">2022</data>
+  <data key="d6">684</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=4278610892084589339&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="601129416962130879">
+  <data key="d0">Transfg: A transformer architecture for fine-grained recognition</data>
+  <data key="d1">601129416962130879</data>
+  <data key="d2">https://ojs.aaai.org/index.php/AAAI/article/view/19967</data>
+  <data key="d3">Transfg: A transformer architecture for fine-grained recognition</data>
+  <data key="d4">J He, JN Chen, S Liu, A Kortylewski, C Yang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">212</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=601129416962130879&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="4326704403467340422">
+  <data key="d0">Multi-animal pose estimation, identification and tracking with DeepLabCut</data>
+  <data key="d1">4326704403467340422</data>
+  <data key="d2">https://www.nature.com/articles/s41592-022-01443-0</data>
+  <data key="d3">Multi-animal pose estimation, identification and tracking with DeepLabCut</data>
+  <data key="d4">J Lauer, M Zhou, S Ye, W Menegas, S Schneider…</data>
+  <data key="d5">2022</data>
+  <data key="d6">167</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=4326704403467340422&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="18177167198432349205">
+  <data key="d0">Mhformer: Multi-hypothesis transformer for 3d human pose estimation</data>
+  <data key="d1">18177167198432349205</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Li_MHFormer_Multi-Hypothesis_Transformer_for_3D_Human_Pose_Estimation_CVPR_2022_paper.html</data>
+  <data key="d3">Mhformer: Multi-hypothesis transformer for 3d human pose estimation</data>
+  <data key="d4">W Li, H Liu, H Tang, P Wang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">120</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=18177167198432349205&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="342346550438939327">
+  <data key="d0">Uniformer: Unifying convolution and self-attention for visual recognition</data>
+  <data key="d1">342346550438939327</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/10143709/</data>
+  <data key="d3">Uniformer: Unifying convolution and self-attention for visual recognition</data>
+  <data key="d4">K Li, Y Wang, J Zhang, P Gao, G Song…</data>
+  <data key="d5">2023</data>
+  <data key="d6">100</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=342346550438939327&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="9632085609200326616">
+  <data key="d0">Not all images are worth 16x16 words: Dynamic transformers for efficient image recognition</data>
+  <data key="d1">9632085609200326616</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2021/hash/64517d8435994992e682b3e4aa0a0661-Abstract.html</data>
+  <data key="d3">Not all images are worth 16x16 words: Dynamic transformers for efficient image recognition</data>
+  <data key="d4">Y Wang, R Huang, S Song…</data>
+  <data key="d5">2021</data>
+  <data key="d6">99</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9632085609200326616&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="14716201437512299394">
+  <data key="d0">Adavit: Adaptive vision transformers for efficient image recognition</data>
+  <data key="d1">14716201437512299394</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Meng_AdaViT_Adaptive_Vision_Transformers_for_Efficient_Image_Recognition_CVPR_2022_paper.html</data>
+  <data key="d3">Adavit: Adaptive vision transformers for efficient image recognition</data>
+  <data key="d4">L Meng, H Li, BC Chen, S Lan, Z Wu…</data>
+  <data key="d5">2022</data>
+  <data key="d6">69</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=14716201437512299394&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="6658129475220097194">
+  <data key="d0">Accelerating DETR convergence via semantic-aligned matching</data>
+  <data key="d1">6658129475220097194</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Accelerating_DETR_Convergence_via_Semantic-Aligned_Matching_CVPR_2022_paper.html</data>
+  <data key="d3">Accelerating DETR convergence via semantic-aligned matching</data>
+  <data key="d4">G Zhang, Z Luo, Y Yu, K Cui…</data>
+  <data key="d5">2022</data>
+  <data key="d6">51</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=6658129475220097194&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="9897783945226246229">
+  <data key="d0">Cdtrans: Cross-domain transformer for unsupervised domain adaptation</data>
+  <data key="d1">9897783945226246229</data>
+  <data key="d2">https://arxiv.org/abs/2109.06165</data>
+  <data key="d3">Cdtrans: Cross-domain transformer for unsupervised domain adaptation</data>
+  <data key="d4">T Xu, W Chen, P Wang, F Wang, H Li, R Jin</data>
+  <data key="d5">2021</data>
+  <data key="d6">114</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9897783945226246229&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="5598507831422168925">
+  <data key="d0">Dual cross-attention learning for fine-grained visual categorization and object re-identification</data>
+  <data key="d1">5598507831422168925</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Dual_Cross-Attention_Learning_for_Fine-Grained_Visual_Categorization_and_Object_Re-Identification_CVPR_2022_paper.html</data>
+  <data key="d3">Dual cross-attention learning for fine-grained visual categorization and object re-identification</data>
+  <data key="d4">H Zhu, W Ke, D Li, J Liu, L Tian…</data>
+  <data key="d5">2022</data>
+  <data key="d6">48</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=5598507831422168925&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="3707506564686588016">
+  <data key="d0">Towards discriminative representation learning for unsupervised person re-identification</data>
+  <data key="d1">3707506564686588016</data>
+  <data key="d2">http://openaccess.thecvf.com/content/ICCV2021/html/Isobe_Towards_Discriminative_Representation_Learning_for_Unsupervised_Person_Re-Identification_ICCV_2021_paper.html</data>
+  <data key="d3">Towards discriminative representation learning for unsupervised person re-identification</data>
+  <data key="d4">T Isobe, D Li, L Tian, W Chen…</data>
+  <data key="d5">2021</data>
+  <data key="d6">54</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=3707506564686588016&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="4988594281116353083">
+  <data key="d0">Bossnas: Exploring hybrid cnn-transformers with block-wisely self-supervised neural architecture search</data>
+  <data key="d1">4988594281116353083</data>
+  <data key="d2">http://openaccess.thecvf.com/content/ICCV2021/html/Li_BossNAS_Exploring_Hybrid_CNN-Transformers_With_Block-Wisely_Self-Supervised_Neural_Architecture_Search_ICCV_2021_paper.html</data>
+  <data key="d3">Bossnas: Exploring hybrid cnn-transformers with block-wisely self-supervised neural architecture search</data>
+  <data key="d4">C Li, T Tang, G Wang, J Peng…</data>
+  <data key="d5">2021</data>
+  <data key="d6">81</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=4988594281116353083&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="16448186114991458904">
+  <data key="d0">Exploiting temporal contexts with strided transformer for 3d human pose estimation</data>
+  <data key="d1">16448186114991458904</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9674785/</data>
+  <data key="d3">Exploiting temporal contexts with strided transformer for 3d human pose estimation</data>
+  <data key="d4">W Li, H Liu, R Ding, M Liu, P Wang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">92</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=16448186114991458904&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="10189561822678692220">
+  <data key="d0">Recent advances in vision transformer: A survey and outlook of recent work</data>
+  <data key="d1">10189561822678692220</data>
+  <data key="d2">https://arxiv.org/abs/2203.01536</data>
+  <data key="d3">Recent advances in vision transformer: A survey and outlook of recent work</data>
+  <data key="d4">K Islam</data>
+  <data key="d5">2022</data>
+  <data key="d6">17</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=10189561822678692220&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="12518043648515496043">
+  <data key="d0">Structure-aware positional transformer for visible-infrared person re-identification</data>
+  <data key="d1">12518043648515496043</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9725265/</data>
+  <data key="d3">Structure-aware positional transformer for visible-infrared person re-identification</data>
+  <data key="d4">C Chen, M Ye, M Qi, J Wu, J Jiang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">58</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=12518043648515496043&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">3</data>
+</node>
+<node id="15172072370662904150">
+  <data key="d0">Intriguing properties of vision transformers</data>
+  <data key="d1">15172072370662904150</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2021/hash/c404a5adbf90e09631678b13b05d9d7a-Abstract.html</data>
+  <data key="d3">Intriguing properties of vision transformers</data>
+  <data key="d4">MM Naseer, K Ranasinghe, SH Khan…</data>
+  <data key="d5">2021</data>
+  <data key="d6">359</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=15172072370662904150&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="6668235945473015803">
+  <data key="d0">ibot: Image bert pre-training with online tokenizer</data>
+  <data key="d1">6668235945473015803</data>
+  <data key="d2">https://arxiv.org/abs/2111.07832</data>
+  <data key="d3">ibot: Image bert pre-training with online tokenizer</data>
+  <data key="d4">J Zhou, C Wei, H Wang, W Shen, C Xie, A Yuille…</data>
+  <data key="d5">2021</data>
+  <data key="d6">372</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=6668235945473015803&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="2316302132679082774">
+  <data key="d0">Are transformers more robust than cnns?</data>
+  <data key="d1">2316302132679082774</data>
+  <data key="d2">https://proceedings.neurips.cc/paper/2021/hash/e19347e1c3ca0c0b97de5fb3b690855a-Abstract.html</data>
+  <data key="d3">Are transformers more robust than cnns?</data>
+  <data key="d4">Y Bai, J Mei, AL Yuille, C Xie</data>
+  <data key="d5">2021</data>
+  <data key="d6">167</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=2316302132679082774&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="4388759310460601633">
+  <data key="d0">Daformer: Improving network architectures and training strategies for domain-adaptive semantic segmentation</data>
+  <data key="d1">4388759310460601633</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Hoyer_DAFormer_Improving_Network_Architectures_and_Training_Strategies_for_Domain-Adaptive_Semantic_CVPR_2022_paper.html</data>
+  <data key="d3">Daformer: Improving network architectures and training strategies for domain-adaptive semantic segmentation</data>
+  <data key="d4">L Hoyer, D Dai, L Van Gool</data>
+  <data key="d5">2022</data>
+  <data key="d6">177</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=4388759310460601633&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="3041067607452518927">
+  <data key="d0">Understanding the robustness in vision transformers</data>
+  <data key="d1">3041067607452518927</data>
+  <data key="d2">https://proceedings.mlr.press/v162/zhou22m.html</data>
+  <data key="d3">Understanding the robustness in vision transformers</data>
+  <data key="d4">D Zhou, Z Yu, E Xie, C Xiao…</data>
+  <data key="d5">2022</data>
+  <data key="d6">82</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=3041067607452518927&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="875131557547078483">
+  <data key="d0">Partial success in closing the gap between human and machine vision</data>
+  <data key="d1">875131557547078483</data>
+  <data key="d2">https://proceedings.neurips.cc/paper/2021/hash/c8877cff22082a16395a57e97232bb6f-Abstract.html</data>
+  <data key="d3">Partial success in closing the gap between human and machine vision</data>
+  <data key="d4">R Geirhos, K Narayanappa, B Mitzkus…</data>
+  <data key="d5">2021</data>
+  <data key="d6">110</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=875131557547078483&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="17891879498080154736">
+  <data key="d0">Efficient training of visual transformers with small datasets</data>
+  <data key="d1">17891879498080154736</data>
+  <data key="d2">https://proceedings.neurips.cc/paper/2021/hash/c81e155d85dae5430a8cee6f2242e82c-Abstract.html</data>
+  <data key="d3">Efficient training of visual transformers with small datasets</data>
+  <data key="d4">Y Liu, E Sangineto, W Bi, N Sebe…</data>
+  <data key="d5">2021</data>
+  <data key="d6">106</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=17891879498080154736&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="2028336304446280911">
+  <data key="d0">Assaying out-of-distribution generalization in transfer learning</data>
+  <data key="d1">2028336304446280911</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2022/hash/2f5acc925919209370a3af4eac5cad4a-Abstract-Conference.html</data>
+  <data key="d3">Assaying out-of-distribution generalization in transfer learning</data>
+  <data key="d4">F Wenzel, A Dittadi, P Gehler…</data>
+  <data key="d5">2022</data>
+  <data key="d6">29</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=2028336304446280911&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="5601871542106060008">
+  <data key="d0">Ow-detr: Open-world detection transformer</data>
+  <data key="d1">5601871542106060008</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Gupta_OW-DETR_Open-World_Detection_Transformer_CVPR_2022_paper.html</data>
+  <data key="d3">Ow-detr: Open-world detection transformer</data>
+  <data key="d4">A Gupta, S Narayan, KJ Joseph…</data>
+  <data key="d5">2022</data>
+  <data key="d6">67</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=5601871542106060008&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="14672720829595281606">
+  <data key="d0">ViT-YOLO: Transformer-based YOLO for object detection</data>
+  <data key="d1">14672720829595281606</data>
+  <data key="d2">http://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhang_ViT-YOLOTransformer-Based_YOLO_for_Object_Detection_ICCVW_2021_paper.html</data>
+  <data key="d3">ViT-YOLO: Transformer-based YOLO for object detection</data>
+  <data key="d4">Z Zhang, X Lu, G Cao, Y Yang…</data>
+  <data key="d5">2021</data>
+  <data key="d6">82</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=14672720829595281606&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="13367059770507522630">
+  <data key="d0">Not all patches are what you need: Expediting vision transformers via token reorganizations</data>
+  <data key="d1">13367059770507522630</data>
+  <data key="d2">https://arxiv.org/abs/2202.07800</data>
+  <data key="d3">Not all patches are what you need: Expediting vision transformers via token reorganizations</data>
+  <data key="d4">Y Liang, C Ge, Z Tong, Y Song, J Wang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">111</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=13367059770507522630&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="4241401890946035983">
+  <data key="d0">Msft-yolo: Improved yolov5 based on transformer for detecting defects of steel surface</data>
+  <data key="d1">4241401890946035983</data>
+  <data key="d2">https://www.mdpi.com/1424-8220/22/9/3467</data>
+  <data key="d3">Msft-yolo: Improved yolov5 based on transformer for detecting defects of steel surface</data>
+  <data key="d4">Z Guo, C Wang, G Yang, Z Huang, G Li</data>
+  <data key="d5">2022</data>
+  <data key="d6">68</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=4241401890946035983&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="6243645967630982889">
+  <data key="d0">Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives</data>
+  <data key="d1">6243645967630982889</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S1361841523000233</data>
+  <data key="d3">Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives</data>
+  <data key="d4">J Li, J Chen, Y Tang, C Wang, BA Landman…</data>
+  <data key="d5">2023</data>
+  <data key="d6">56</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=6243645967630982889&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="4486454263174539234">
+  <data key="d0">Viewfool: Evaluating the robustness of visual recognition to adversarial viewpoints</data>
+  <data key="d1">4486454263174539234</data>
+  <data key="d2">https://proceedings.neurips.cc/paper_files/paper/2022/hash/eee7ae5cf0c4356c2aeca400771791aa-Abstract-Conference.html</data>
+  <data key="d3">Viewfool: Evaluating the robustness of visual recognition to adversarial viewpoints</data>
+  <data key="d4">Y Dong, S Ruan, H Su, C Kang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">18</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=4486454263174539234&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="1157620601786084092">
+  <data key="d0">Efficient training of audio transformers with patchout</data>
+  <data key="d1">1157620601786084092</data>
+  <data key="d2">https://arxiv.org/abs/2110.05069</data>
+  <data key="d3">Efficient training of audio transformers with patchout</data>
+  <data key="d4">K Koutini, J Schlüter, H Eghbal-Zadeh…</data>
+  <data key="d5">2021</data>
+  <data key="d6">106</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=1157620601786084092&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="11135517644142739642">
+  <data key="d0">Panoptic segformer: Delving deeper into panoptic segmentation with transformers</data>
+  <data key="d1">11135517644142739642</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Li_Panoptic_SegFormer_Delving_Deeper_Into_Panoptic_Segmentation_With_Transformers_CVPR_2022_paper.html</data>
+  <data key="d3">Panoptic segformer: Delving deeper into panoptic segmentation with transformers</data>
+  <data key="d4">Z Li, W Wang, E Xie, Z Yu…</data>
+  <data key="d5">2022</data>
+  <data key="d6">47</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=11135517644142739642&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="13429345883781912849">
+  <data key="d0">Localizing objects with self-supervised transformers and no labels</data>
+  <data key="d1">13429345883781912849</data>
+  <data key="d2">https://arxiv.org/abs/2109.14279</data>
+  <data key="d3">Localizing objects with self-supervised transformers and no labels</data>
+  <data key="d4">O Siméoni, G Puy, HV Vo, S Roburin, S Gidaris…</data>
+  <data key="d5">2021</data>
+  <data key="d6">92</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=13429345883781912849&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">4</data>
+</node>
+<node id="14311400318178337111">
+  <data key="d0">A survey of modern deep learning based object detection models</data>
+  <data key="d1">14311400318178337111</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S1051200422001312</data>
+  <data key="d3">A survey of modern deep learning based object detection models</data>
+  <data key="d4">SSA Zaidi, MS Ansari, A Aslam, N Kanwal…</data>
+  <data key="d5">2022</data>
+  <data key="d6">425</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=14311400318178337111&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="11789051068432887660">
+  <data key="d0">Deep learning methods for object detection in smart manufacturing: A survey</data>
+  <data key="d1">11789051068432887660</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S0278612522001066</data>
+  <data key="d3">Deep learning methods for object detection in smart manufacturing: A survey</data>
+  <data key="d4">HM Ahmad, A Rahimi</data>
+  <data key="d5">2022</data>
+  <data key="d6">20</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=11789051068432887660&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="15295068953900215294">
+  <data key="d0">Mammogram breast cancer CAD systems for mass detection and classification: a review</data>
+  <data key="d1">15295068953900215294</data>
+  <data key="d2">https://link.springer.com/article/10.1007/s11042-022-12332-1</data>
+  <data key="d3">Mammogram breast cancer CAD systems for mass detection and classification: a review</data>
+  <data key="d4">NM Hassan, S Hamad, K Mahar</data>
+  <data key="d5">2022</data>
+  <data key="d6">32</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=15295068953900215294&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="15549291371117213871">
+  <data key="d0">Precise single-stage detector</data>
+  <data key="d1">15549291371117213871</data>
+  <data key="d2">https://arxiv.org/abs/2210.04252</data>
+  <data key="d3">Precise single-stage detector</data>
+  <data key="d4">A Chandio, G Gui, T Kumar, I Ullah…</data>
+  <data key="d5">2022</data>
+  <data key="d6">41</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=15549291371117213871&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="9884544045603971658">
+  <data key="d0">CE-FPN: Enhancing channel information for object detection</data>
+  <data key="d1">9884544045603971658</data>
+  <data key="d2">https://link.springer.com/article/10.1007/s11042-022-11940-1</data>
+  <data key="d3">CE-FPN: Enhancing channel information for object detection</data>
+  <data key="d4">Y Luo, X Cao, J Zhang, J Guo, H Shen, T Wang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">68</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9884544045603971658&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="9591435289724766439">
+  <data key="d0">A survey of self-supervised and few-shot object detection</data>
+  <data key="d1">9591435289724766439</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9860087/</data>
+  <data key="d3">A survey of self-supervised and few-shot object detection</data>
+  <data key="d4">G Huang, I Laradji, D Vazquez…</data>
+  <data key="d5">2022</data>
+  <data key="d6">42</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9591435289724766439&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="10628215061802232868">
+  <data key="d0">Feature split–merge–enhancement network for remote sensing object detection</data>
+  <data key="d1">10628215061802232868</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9673713/</data>
+  <data key="d3">Feature split–merge–enhancement network for remote sensing object detection</data>
+  <data key="d4">W Ma, N Li, H Zhu, L Jiao, X Tang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">42</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=10628215061802232868&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="9532821550175512200">
+  <data key="d0">Guiding pretraining in reinforcement learning with large language models</data>
+  <data key="d1">9532821550175512200</data>
+  <data key="d2">https://arxiv.org/abs/2302.06692</data>
+  <data key="d3">Guiding pretraining in reinforcement learning with large language models</data>
+  <data key="d4">Y Du, O Watkins, Z Wang, C Colas, T Darrell…</data>
+  <data key="d5">2023</data>
+  <data key="d6">19</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=9532821550175512200&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="12985976504909847163">
+  <data key="d0">Integrating deep learning-based iot and fog computing with software-defined networking for detecting weapons in video surveillance systems</data>
+  <data key="d1">12985976504909847163</data>
+  <data key="d2">https://www.mdpi.com/1424-8220/22/14/5075</data>
+  <data key="d3">Integrating deep learning-based iot and fog computing with software-defined networking for detecting weapons in video surveillance systems</data>
+  <data key="d4">C Fathy, SN Saleh</data>
+  <data key="d5">2022</data>
+  <data key="d6">18</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=12985976504909847163&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="2812153438552156646">
+  <data key="d0">Backbones-review: Feature extraction networks for deep learning and deep reinforcement learning approaches</data>
+  <data key="d1">2812153438552156646</data>
+  <data key="d2">https://arxiv.org/abs/2206.08016</data>
+  <data key="d3">Backbones-review: Feature extraction networks for deep learning and deep reinforcement learning approaches</data>
+  <data key="d4">O Elharrouss, Y Akbari, N Almaadeed…</data>
+  <data key="d5">2022</data>
+  <data key="d6">28</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=2812153438552156646&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="14349697475909471320">
+  <data key="d0">Small-object detection based on YOLOv5 in autonomous driving systems</data>
+  <data key="d1">14349697475909471320</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S0167865523000727</data>
+  <data key="d3">Small-object detection based on YOLOv5 in autonomous driving systems</data>
+  <data key="d4">B Mahaur, KK Mishra</data>
+  <data key="d5">2023</data>
+  <data key="d6">14</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=14349697475909471320&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="18351357225093508985">
+  <data key="d0">Single-stage uav detection and classification with yolov5: Mosaic data augmentation and panet</data>
+  <data key="d1">18351357225093508985</data>
+  <data key="d2">https://ieeexplore.ieee.org/abstract/document/9663841/</data>
+  <data key="d3">Single-stage uav detection and classification with yolov5: Mosaic data augmentation and panet</data>
+  <data key="d4">F Dadboud, V Patel, V Mehta, M Bolic…</data>
+  <data key="d5">2021</data>
+  <data key="d6">25</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=18351357225093508985&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="11021564807628327569">
+  <data key="d0">FPGA-based accelerator for object detection: A comprehensive survey</data>
+  <data key="d1">11021564807628327569</data>
+  <data key="d2">https://link.springer.com/article/10.1007/s11227-022-04415-5</data>
+  <data key="d3">FPGA-based accelerator for object detection: A comprehensive survey</data>
+  <data key="d4">K Zeng, Q Ma, JW Wu, Z Chen, T Shen…</data>
+  <data key="d5">2022</data>
+  <data key="d6">14</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=11021564807628327569&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="4655434626952320958">
+  <data key="d0">Rail wheel tread defect detection using improved YOLOv3</data>
+  <data key="d1">4655434626952320958</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S0263224122011551</data>
+  <data key="d3">Rail wheel tread defect detection using improved YOLOv3</data>
+  <data key="d4">Z Xing, Z Zhang, X Yao, Y Qin, L Jia</data>
+  <data key="d5">2022</data>
+  <data key="d6">11</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=4655434626952320958&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="16079747206913991174">
+  <data key="d0">Development of a Low-Power IoMT Portable Pillbox for Medication Adherence Improvement and Remote Treatment Adjustment</data>
+  <data key="d1">16079747206913991174</data>
+  <data key="d2">https://www.mdpi.com/1424-8220/22/15/5818</data>
+  <data key="d3">Development of a Low-Power IoMT Portable Pillbox for Medication Adherence Improvement and Remote Treatment Adjustment</data>
+  <data key="d4">D Karagiannis, K Mitsis, KS Nikita</data>
+  <data key="d5">2022</data>
+  <data key="d6">8</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=16079747206913991174&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="16432688928939217038">
+  <data key="d0">A comprehensive review of object detection with deep learning</data>
+  <data key="d1">16432688928939217038</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S1051200422004298</data>
+  <data key="d3">A comprehensive review of object detection with deep learning</data>
+  <data key="d4">R Kaur, S Singh</data>
+  <data key="d5">2022</data>
+  <data key="d6">11</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=16432688928939217038&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="6456248456066525600">
+  <data key="d0">A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications</data>
+  <data key="d1">6456248456066525600</data>
+  <data key="d2">https://link.springer.com/article/10.1186/s40537-023-00727-2</data>
+  <data key="d3">A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications</data>
+  <data key="d4">L Alzubaidi, J Bai, A Al-Sabaawi, J Santamaría…</data>
+  <data key="d5">2023</data>
+  <data key="d6">25</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=6456248456066525600&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="8123745338600640152">
+  <data key="d0">Video surveillance using deep transfer learning and deep domain adaptation: Towards better generalization</data>
+  <data key="d1">8123745338600640152</data>
+  <data key="d2">https://www.sciencedirect.com/science/article/pii/S0952197622006881</data>
+  <data key="d3">Video surveillance using deep transfer learning and deep domain adaptation: Towards better generalization</data>
+  <data key="d4">Y Himeur, S Al-Maadeed, H Kheddar…</data>
+  <data key="d5">2023</data>
+  <data key="d6">18</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=8123745338600640152&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="10334732198267289555">
+  <data key="d0">Review of recent automated pothole-detection methods</data>
+  <data key="d1">10334732198267289555</data>
+  <data key="d2">https://www.mdpi.com/2076-3417/12/11/5320</data>
+  <data key="d3">Review of recent automated pothole-detection methods</data>
+  <data key="d4">YM Kim, YG Kim, SY Son, SY Lim, BY Choi, DH Choi</data>
+  <data key="d5">2022</data>
+  <data key="d6">15</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=10334732198267289555&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="5740479134802475221">
+  <data key="d0">Towards domain generalization in object detection</data>
+  <data key="d1">5740479134802475221</data>
+  <data key="d2">https://arxiv.org/abs/2203.14387</data>
+  <data key="d3">Towards domain generalization in object detection</data>
+  <data key="d4">X Zhang, Z Xu, R Xu, J Liu, P Cui, W Wan…</data>
+  <data key="d5">2022</data>
+  <data key="d6">15</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=5740479134802475221&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="6447041552955227244">
+  <data key="d0">Allergen30: detecting food items with possible allergens using deep learning-based computer vision</data>
+  <data key="d1">6447041552955227244</data>
+  <data key="d2">https://link.springer.com/article/10.1007/s12161-022-02353-9</data>
+  <data key="d3">Allergen30: detecting food items with possible allergens using deep learning-based computer vision</data>
+  <data key="d4">M Mishra, T Sarkar, T Choudhury, N Bansal…</data>
+  <data key="d5">2022</data>
+  <data key="d6">7</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=6447041552955227244&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">1</data>
+</node>
+<node id="17327663970405370182">
+  <data key="d0">Point-bert: Pre-training 3d point cloud transformers with masked point modeling</data>
+  <data key="d1">17327663970405370182</data>
+  <data key="d2">http://openaccess.thecvf.com/content/CVPR2022/html/Yu_Point-BERT_Pre-Training_3D_Point_Cloud_Transformers_With_Masked_Point_Modeling_CVPR_2022_paper.html</data>
+  <data key="d3">Point-bert: Pre-training 3d point cloud transformers with masked point modeling</data>
+  <data key="d4">X Yu, L Tang, Y Rao, T Huang…</data>
+  <data key="d5">2022</data>
+  <data key="d6">215</data>
+  <data key="d7">https://scholar.google.com/scholar?cites=17327663970405370182&amp;as_sdt=40005&amp;sciodt=0,10&amp;hl=en</data>
+  <data key="d8">7</data>
+</node>
+<edge source="7522504961268153944" target="6382612685700818764"/>
+<edge source="7522504961268153944" target="16431204865977056518"/>
+<edge source="7522504961268153944" target="10110104334022835757"/>
+<edge source="7522504961268153944" target="15635397108812213817"/>
+<edge source="7522504961268153944" target="15172072370662904150"/>
+<edge source="15456065911372617945" target="7522504961268153944"/>
+<edge source="15456065911372617945" target="10110104334022835757"/>
+<edge source="982391967541643955" target="15456065911372617945"/>
+<edge source="982391967541643955" target="7749897961068121501"/>
+<edge source="982391967541643955" target="15172072370662904150"/>
+<edge source="2452866517197292093" target="15456065911372617945"/>
+<edge source="4773463079530656035" target="15456065911372617945"/>
+<edge source="4773463079530656035" target="10110104334022835757"/>
+<edge source="761718241536208511" target="15456065911372617945"/>
+<edge source="7104781172538541114" target="15456065911372617945"/>
+<edge source="6491078858607146383" target="15456065911372617945"/>
+<edge source="11978445553624214380" target="15456065911372617945"/>
+<edge source="5228146784334715443" target="15456065911372617945"/>
+<edge source="5228146784334715443" target="7749897961068121501"/>
+<edge source="9099615620722636165" target="15456065911372617945"/>
+<edge source="10884589459641707712" target="15456065911372617945"/>
+<edge source="16262241741810610288" target="15456065911372617945"/>
+<edge source="17062002127391260256" target="15456065911372617945"/>
+<edge source="2492869366552030070" target="15456065911372617945"/>
+<edge source="2308320307881605474" target="15456065911372617945"/>
+<edge source="28694845113345021" target="15456065911372617945"/>
+<edge source="9917302194767651380" target="15456065911372617945"/>
+<edge source="8402450993508627791" target="15456065911372617945"/>
+<edge source="17059844040400317816" target="15456065911372617945"/>
+<edge source="1609101033275109223" target="15456065911372617945"/>
+<edge source="9226375279866402413" target="15456065911372617945"/>
+<edge source="7749897961068121501" target="7522504961268153944"/>
+<edge source="1539076789580815483" target="7749897961068121501"/>
+<edge source="966567457136989804" target="7749897961068121501"/>
+<edge source="10761248177036470713" target="7749897961068121501"/>
+<edge source="10761248177036470713" target="15635397108812213817"/>
+<edge source="14136709172791920331" target="7749897961068121501"/>
+<edge source="13597902966753793310" target="7749897961068121501"/>
+<edge source="4431578198915484435" target="7749897961068121501"/>
+<edge source="2600515932282922845" target="7749897961068121501"/>
+<edge source="8053588590478703627" target="7749897961068121501"/>
+<edge source="8053588590478703627" target="15635397108812213817"/>
+<edge source="15393921212791157727" target="7749897961068121501"/>
+<edge source="7420567692305480707" target="7749897961068121501"/>
+<edge source="3878971468388928610" target="7749897961068121501"/>
+<edge source="9919738130893761480" target="7749897961068121501"/>
+<edge source="15926311935982020340" target="7749897961068121501"/>
+<edge source="836183377042488989" target="7749897961068121501"/>
+<edge source="17269928898680478649" target="7749897961068121501"/>
+<edge source="6376642340831106711" target="7749897961068121501"/>
+<edge source="12806372482493631350" target="7749897961068121501"/>
+<edge source="2160563741249466913" target="7749897961068121501"/>
+<edge source="16431204865977056518" target="7522504961268153944"/>
+<edge source="16431204865977056518" target="14988305211504802629"/>
+<edge source="16932998913230259066" target="16431204865977056518"/>
+<edge source="498268664873674535" target="16431204865977056518"/>
+<edge source="9110410135628850117" target="16431204865977056518"/>
+<edge source="7710701073211724386" target="16431204865977056518"/>
+<edge source="13272942409666364496" target="16431204865977056518"/>
+<edge source="12297468854729392143" target="16431204865977056518"/>
+<edge source="5364344454304770774" target="16431204865977056518"/>
+<edge source="3464402829187061665" target="16431204865977056518"/>
+<edge source="15226748689642581218" target="16431204865977056518"/>
+<edge source="4776651674359042439" target="16431204865977056518"/>
+<edge source="4776651674359042439" target="14988305211504802629"/>
+<edge source="278490733091580759" target="16431204865977056518"/>
+<edge source="278490733091580759" target="14988305211504802629"/>
+<edge source="1598910218006932443" target="16431204865977056518"/>
+<edge source="13813872909195716054" target="16431204865977056518"/>
+<edge source="3715909162805048662" target="16431204865977056518"/>
+<edge source="8627981696317437595" target="16431204865977056518"/>
+<edge source="11308628305789992240" target="16431204865977056518"/>
+<edge source="11308628305789992240" target="15172072370662904150"/>
+<edge source="2900405794489939688" target="16431204865977056518"/>
+<edge source="2900405794489939688" target="14988305211504802629"/>
+<edge source="1292725169895823488" target="16431204865977056518"/>
+<edge source="1292725169895823488" target="14988305211504802629"/>
+<edge source="14640072730760349377" target="16431204865977056518"/>
+<edge source="10110104334022835757" target="7522504961268153944"/>
+<edge source="14443907969977981621" target="10110104334022835757"/>
+<edge source="13501013621324561884" target="10110104334022835757"/>
+<edge source="13629397900287809862" target="10110104334022835757"/>
+<edge source="1273811038957334386" target="10110104334022835757"/>
+<edge source="610621467807251926" target="10110104334022835757"/>
+<edge source="18380770342348927722" target="10110104334022835757"/>
+<edge source="9618435703828650575" target="10110104334022835757"/>
+<edge source="17870066505440679476" target="10110104334022835757"/>
+<edge source="10588342779298269046" target="10110104334022835757"/>
+<edge source="6784655767122395745" target="10110104334022835757"/>
+<edge source="6118595289890500680" target="10110104334022835757"/>
+<edge source="12938213222665733645" target="10110104334022835757"/>
+<edge source="1388490151733704334" target="10110104334022835757"/>
+<edge source="18356109755771918503" target="10110104334022835757"/>
+<edge source="15188717593606933557" target="10110104334022835757"/>
+<edge source="12692106295877813680" target="10110104334022835757"/>
+<edge source="1854387804616571098" target="10110104334022835757"/>
+<edge source="14988305211504802629" target="7522504961268153944"/>
+<edge source="14031000766044293652" target="14988305211504802629"/>
+<edge source="16381083981417715623" target="14988305211504802629"/>
+<edge source="6999508588420552953" target="14988305211504802629"/>
+<edge source="18275282813589182456" target="14988305211504802629"/>
+<edge source="11948207786179445379" target="14988305211504802629"/>
+<edge source="2731814227384441305" target="14988305211504802629"/>
+<edge source="563900006853828372" target="14988305211504802629"/>
+<edge source="2892557376887066282" target="14988305211504802629"/>
+<edge source="10807347079650485654" target="14988305211504802629"/>
+<edge source="8278982060432150337" target="14988305211504802629"/>
+<edge source="9248261167097334152" target="14988305211504802629"/>
+<edge source="7494856167361955847" target="14988305211504802629"/>
+<edge source="6389162819004784674" target="14988305211504802629"/>
+<edge source="10294262589674995487" target="14988305211504802629"/>
+<edge source="7561375020407203939" target="14988305211504802629"/>
+<edge source="15635397108812213817" target="7522504961268153944"/>
+<edge source="7329647594369932315" target="15635397108812213817"/>
+<edge source="4431453089685809340" target="15635397108812213817"/>
+<edge source="4278610892084589339" target="15635397108812213817"/>
+<edge source="601129416962130879" target="15635397108812213817"/>
+<edge source="4326704403467340422" target="15635397108812213817"/>
+<edge source="18177167198432349205" target="15635397108812213817"/>
+<edge source="342346550438939327" target="15635397108812213817"/>
+<edge source="9632085609200326616" target="15635397108812213817"/>
+<edge source="14716201437512299394" target="15635397108812213817"/>
+<edge source="6658129475220097194" target="15635397108812213817"/>
+<edge source="9897783945226246229" target="15635397108812213817"/>
+<edge source="9897783945226246229" target="15172072370662904150"/>
+<edge source="5598507831422168925" target="15635397108812213817"/>
+<edge source="3707506564686588016" target="15635397108812213817"/>
+<edge source="4988594281116353083" target="15635397108812213817"/>
+<edge source="16448186114991458904" target="15635397108812213817"/>
+<edge source="10189561822678692220" target="15635397108812213817"/>
+<edge source="12518043648515496043" target="15635397108812213817"/>
+<edge source="15172072370662904150" target="7522504961268153944"/>
+<edge source="6668235945473015803" target="15172072370662904150"/>
+<edge source="2316302132679082774" target="15172072370662904150"/>
+<edge source="4388759310460601633" target="15172072370662904150"/>
+<edge source="3041067607452518927" target="15172072370662904150"/>
+<edge source="875131557547078483" target="15172072370662904150"/>
+<edge source="17891879498080154736" target="15172072370662904150"/>
+<edge source="2028336304446280911" target="15172072370662904150"/>
+<edge source="5601871542106060008" target="15172072370662904150"/>
+<edge source="14672720829595281606" target="15172072370662904150"/>
+<edge source="13367059770507522630" target="15172072370662904150"/>
+<edge source="4241401890946035983" target="15172072370662904150"/>
+<edge source="6243645967630982889" target="15172072370662904150"/>
+<edge source="4486454263174539234" target="15172072370662904150"/>
+<edge source="1157620601786084092" target="15172072370662904150"/>
+<edge source="11135517644142739642" target="15172072370662904150"/>
+<edge source="13429345883781912849" target="15172072370662904150"/>
+<edge source="14311400318178337111" target="7522504961268153944"/>
+<edge source="11789051068432887660" target="14311400318178337111"/>
+<edge source="15295068953900215294" target="14311400318178337111"/>
+<edge source="15549291371117213871" target="14311400318178337111"/>
+<edge source="9884544045603971658" target="14311400318178337111"/>
+<edge source="9591435289724766439" target="14311400318178337111"/>
+<edge source="10628215061802232868" target="14311400318178337111"/>
+<edge source="9532821550175512200" target="14311400318178337111"/>
+<edge source="12985976504909847163" target="14311400318178337111"/>
+<edge source="2812153438552156646" target="14311400318178337111"/>
+<edge source="14349697475909471320" target="14311400318178337111"/>
+<edge source="18351357225093508985" target="14311400318178337111"/>
+<edge source="11021564807628327569" target="14311400318178337111"/>
+<edge source="4655434626952320958" target="14311400318178337111"/>
+<edge source="16079747206913991174" target="14311400318178337111"/>
+<edge source="16432688928939217038" target="14311400318178337111"/>
+<edge source="6456248456066525600" target="14311400318178337111"/>
+<edge source="8123745338600640152" target="14311400318178337111"/>
+<edge source="10334732198267289555" target="14311400318178337111"/>
+<edge source="5740479134802475221" target="14311400318178337111"/>
+<edge source="6447041552955227244" target="14311400318178337111"/>
+<edge source="17327663970405370182" target="7522504961268153944"/>
+</graph></graphml>
