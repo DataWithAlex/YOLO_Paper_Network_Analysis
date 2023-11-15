@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 import re
 import sys
 import json
@@ -30,7 +28,6 @@ def main():
     parser.add_argument('--pages', type=int, default=1, help="breadth of the crawl in terms of number of pages of results (defaults to 1)")
     parser.add_argument('--output', type=str, default='output', help="file prefix to use for the output files (defaults to 'output')")
     parser.add_argument('--debug', action="store_true", default=False, help="display diagnostics during the crawl")
-    parser.add_argument('--max-citations', type=int, default=100, help="maximum number of citations of citations to collect (defaults to 100)")
     args = parser.parse_args()
 
     # ready to start up headless browser
@@ -40,7 +37,7 @@ def main():
     g = networkx.DiGraph()
 
     # iterate through all the citation links
-    for from_pub, to_pub in get_citations(args.url, depth=args.depth, pages=args.pages, max_citations_of_citations=args.max_citations):
+    for from_pub, to_pub in get_citations(args.url, depth=args.depth, pages=args.pages):
         if args.debug:
             print('from: %s' % json.dumps(from_pub))
         g.add_node(from_pub['id'], label=from_pub['title'], **remove_nones(from_pub))
@@ -124,7 +121,7 @@ def get_id(e):
             return get_cluster_id(a.attrs['href'])
     return e.attrs.get('data-cid')
 
-def get_citations(url, depth=1, pages=1, max_citations_of_citations=100):
+def get_citations(url, depth=1, pages=1):
     """
     Given a page of citations it will return bibliographic information
     for the source, target of a citation.
@@ -161,14 +158,21 @@ def get_citations(url, depth=1, pages=1, max_citations_of_citations=100):
 
         # depth first search if we need to go deeper
         if depth > 0 and from_pub['cited_by_url']:
-            # Check if we've reached the limit for citations of citations
-            if len(seen) >= max_citations_of_citations:
-                break
             yield from get_citations(
                 from_pub['cited_by_url'],
                 depth=depth-1,
                 pages=pages
             )
+
+    # get the next page if that's what they wanted
+    if pages > 1:
+        for link in html.find('#gs_n a'):
+            if link.text == 'Next':
+                yield from get_citations(
+                    'https://scholar.google.com' + link.attrs['href'],
+                    depth=depth,
+                    pages=pages-1
+                )
 
 def get_metadata(e, to_pub):
     """

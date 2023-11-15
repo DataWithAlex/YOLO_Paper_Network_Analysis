@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">10.1109/CVPR.2016.91</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">10.1007/s11263-014-0733-5</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">10.1109/tpami.2009.167</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">NA</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">10.1007/s11263-013-0620-5</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">NA</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">10.1109/icip.2002.1038171</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">10.1007/978-3-319-10578-9_23</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">10.1109/cvpr.2005.177</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">10.1109/iccv.2009.5459303</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">10.1007/978-3-642-33712-3_25</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">10.1109/cvpr.2010.5540096</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">10.1109/cvpr.2006.68</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">10.1145/1991996.1992010</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">10.1016/j.asoc.2012.12.013</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">10.1109/cvpr.2011.5995330</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">10.1109/cvpr.2013.424</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">10.1007/s11263-011-0495-2</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">10.1023/a:1023052124951</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">10.1109/34.485529</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">10.1007/s11263-007-0091-7</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">10.1109/cvpr.2000.854754</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">10.1145/1273496.1273598</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">10.4086/toc.2012.v008a019</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">10.1109/tpami.2009.144</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">10.1109/iccv.2003.1238663</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">10.1109/cvpr.2001.990517</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">10.1109/34.868688</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">10.1109/iccv.2009.5459257</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">10.1109/cvpr.2010.5540207</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">10.1109/34.655647</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">10.1109/iccv.1998.710772</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">10.1109/icpr.1992.201729</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">10.1109/36.135812</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">10.1109/34.917571</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">10.5244/c.28.72</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">10.1109/cvpr.2009.5206848</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">10.1109/tpami.2011.235</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">10.1109/iccv.2013.10</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">10.1007/978-3-540-88690-7_52</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">10.1109/tpami.2005.188</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">10.1023/b:visi.0000011202.85607.00</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">10.1007/bf01885636</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">10.1109/iccv.2001.937552</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">10.1007/978-3-540-24670-1_6</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">10.1109/cvpr.2000.854739</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">10.1109/iccv.1999.791202</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">10.1023/a:1008162616689</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">10.1109/iccv.2003.1238422</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">10.1109/ivs.2004.1336348</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">10.1109/cvpr.2005.310</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">10.1109/cvpr.2008.4587420</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">10.1109/iccv.2005.204</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">10.1007/3-540-47977-5_44</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">10.1023/b:visi.0000042934.15159.49</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">10.1007/s11263-007-0090-8</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">10.1007/s11263-009-0275-4</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">10.1109/cvpr.2009.5206693</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">10.1109/cvpr.2007.383045</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">10.1109/iccv.2011.6126398</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">10.1109/cvpr.2009.5206723</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">10.1109/cvpr.2005.268</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">10.1109/cvpr.2011.5995368</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">10.1109/cvpr.2010.5540070</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">10.1023/a:1008199403446</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">10.1109/cvprw.2009.5204220</data>
+    </node>
+    <edge source="n0" target="n0">
+    </edge>
+    <edge source="n0" target="n0">
+    </edge>
+    <edge source="n0" target="n0">
+    </edge>
+    <edge source="n0" target="n0">
+    </edge>
+    <edge source="n0" target="n0">
+    </edge>
+    <edge source="n1" target="n2">
+    </edge>
+    <edge source="n3" target="n4">
+    </edge>
+    <edge source="n3" target="n6">
+    </edge>
+    <edge source="n7" target="n8">
+    </edge>
+    <edge source="n9" target="n10">
+    </edge>
+    <edge source="n1" target="n11">
+    </edge>
+    <edge source="n1" target="n12">
+    </edge>
+    <edge source="n1" target="n13">
+    </edge>
+    <edge source="n1" target="n14">
+    </edge>
+    <edge source="n1" target="n2">
+    </edge>
+    <edge source="n1" target="n15">
+    </edge>
+    <edge source="n1" target="n4">
+    </edge>
+    <edge source="n1" target="n16">
+    </edge>
+    <edge source="n1" target="n17">
+    </edge>
+    <edge source="n2" target="n18">
+    </edge>
+    <edge source="n2" target="n19">
+    </edge>
+    <edge source="n2" target="n20">
+    </edge>
+    <edge source="n2" target="n21">
+    </edge>
+    <edge source="n2" target="n8">
+    </edge>
+    <edge source="n2" target="n22">
+    </edge>
+    <edge source="n2" target="n23">
+    </edge>
+    <edge source="n4" target="n11">
+    </edge>
+    <edge source="n4" target="n24">
+    </edge>
+    <edge source="n4" target="n25">
+    </edge>
+    <edge source="n4" target="n12">
+    </edge>
+    <edge source="n4" target="n2">
+    </edge>
+    <edge source="n4" target="n26">
+    </edge>
+    <edge source="n4" target="n27">
+    </edge>
+    <edge source="n4" target="n28">
+    </edge>
+    <edge source="n4" target="n29">
+    </edge>
+    <edge source="n6" target="n26">
+    </edge>
+    <edge source="n6" target="n30">
+    </edge>
+    <edge source="n6" target="n31">
+    </edge>
+    <edge source="n6" target="n32">
+    </edge>
+    <edge source="n6" target="n33">
+    </edge>
+    <edge source="n6" target="n34">
+    </edge>
+    <edge source="n7" target="n35">
+    </edge>
+    <edge source="n7" target="n25">
+    </edge>
+    <edge source="n7" target="n12">
+    </edge>
+    <edge source="n7" target="n1">
+    </edge>
+    <edge source="n7" target="n36">
+    </edge>
+    <edge source="n7" target="n2">
+    </edge>
+    <edge source="n7" target="n37">
+    </edge>
+    <edge source="n7" target="n38">
+    </edge>
+    <edge source="n7" target="n39">
+    </edge>
+    <edge source="n8" target="n40">
+    </edge>
+    <edge source="n8" target="n41">
+    </edge>
+    <edge source="n8" target="n42">
+    </edge>
+    <edge source="n8" target="n43">
+    </edge>
+    <edge source="n8" target="n44">
+    </edge>
+    <edge source="n8" target="n45">
+    </edge>
+    <edge source="n8" target="n46">
+    </edge>
+    <edge source="n8" target="n47">
+    </edge>
+    <edge source="n8" target="n48">
+    </edge>
+    <edge source="n8" target="n49">
+    </edge>
+    <edge source="n9" target="n50">
+    </edge>
+    <edge source="n9" target="n51">
+    </edge>
+    <edge source="n9" target="n8">
+    </edge>
+    <edge source="n9" target="n52">
+    </edge>
+    <edge source="n9" target="n53">
+    </edge>
+    <edge source="n9" target="n54">
+    </edge>
+    <edge source="n9" target="n55">
+    </edge>
+    <edge source="n9" target="n56">
+    </edge>
+    <edge source="n9" target="n57">
+    </edge>
+    <edge source="n10" target="n58">
+    </edge>
+    <edge source="n10" target="n59">
+    </edge>
+    <edge source="n10" target="n2">
+    </edge>
+    <edge source="n10" target="n60">
+    </edge>
+    <edge source="n10" target="n8">
+    </edge>
+    <edge source="n10" target="n61">
+    </edge>
+    <edge source="n10" target="n62">
+    </edge>
+    <edge source="n10" target="n63">
+    </edge>
+    <edge source="n10" target="n64">
+    </edge>
+    <edge source="n10" target="n65">
+    </edge>
+  </graph>
+</graphml>

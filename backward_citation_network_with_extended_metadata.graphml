@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_author" for="node" attr.name="author" attr.type="string"/>
+  <key id="v_title" for="node" attr.name="title" attr.type="string"/>
+  <key id="v_year" for="node" attr.name="year" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">10.1109/CVPR.2016.91</data>
+      <data key="v_author">Main Paper Author</data>
+      <data key="v_title">Main Paper Title</data>
+      <data key="v_year">-2147483648</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">10.1007/s11263-014-0733-5</data>
+      <data key="v_author">Everingham, Mark; Eslami, S. M.; Van Gool, Luc; Williams, Christopher; Winn, John; Zisserman, Andrew</data>
+      <data key="v_title">The Pascal Visual Object Classes Challenge: A Retrospective</data>
+      <data key="v_year">2014</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">10.1109/tpami.2009.167</data>
+      <data key="v_author">Felzenszwalb, Pedro F.; Girshick, Ross; McAllester, David; Ramanan, Deva</data>
+      <data key="v_title">Object Detection with Discriminatively Trained Part-Based Models</data>
+      <data key="v_year">2010</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">NA</data>
+      <data key="v_author">Main Paper Author</data>
+      <data key="v_title">Main Paper Title</data>
+      <data key="v_year">-2147483648</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">10.1007/s11263-013-0620-5</data>
+      <data key="v_author">Uijlings, Jasper; van de Sande, Koen E. A.; Gevers, Theo; Smeulders, Arnold W. M.</data>
+      <data key="v_title">Selective Search for Object Recognition</data>
+      <data key="v_year">2013</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">10.1109/icip.2002.1038171</data>
+      <data key="v_author">Lienhart, Rainer; Maydt, J.</data>
+      <data key="v_title">ICIP (1) - An extended set of Haar-like features for rapid object detection</data>
+      <data key="v_year">-2147483648</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">10.1007/978-3-319-10578-9_23</data>
+      <data key="v_author">He, Kaiming; Zhang, Xiangyu; Ren, Shaoqing; Sun, Jian</data>
+      <data key="v_title">Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition</data>
+      <data key="v_year">2015</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">10.1109/cvpr.2005.177</data>
+      <data key="v_author">Dalal, Navneet; Triggs, Bill</data>
+      <data key="v_title">CVPR (1) - Histograms of oriented gradients for human detection</data>
+      <data key="v_year">-2147483648</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">10.1109/iccv.2009.5459303</data>
+      <data key="v_author">Bourdev, Lubomir; Malik, Jitendra</data>
+      <data key="v_title">ICCV - Poselets: Body part detectors trained using 3D human pose annotations</data>
+      <data key="v_year">2009</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">10.1007/978-3-642-33712-3_25</data>
+      <data key="v_author">Hoiem, Derek; Chodpathumwan, Yodsawalai; Dai, Qieyun</data>
+      <data key="v_title">ECCV (3) - Diagnosing error in object detectors</data>
+      <data key="v_year">2012</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">10.1007/978-3-319-16178-5_7</data>
+      <data key="v_author">Ginosar, Shiry; Haas, Daniel; Brown, Timothy T.; Malik, Jitendra</data>
+      <data key="v_title">ECCV Workshops (1) - Detecting People in Cubist Art</data>
+      <data key="v_year">2015</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">10.1007/978-3-540-88682-2_2</data>
+      <data key="v_author">Blaschko, Matthew B.; Lampert, Christoph H.</data>
+      <data key="v_title">ECCV (1) - Learning to Localize Objects with Structured Output Regression</data>
+      <data key="v_year">2008</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">10.1109/iccv.1998.710772</data>
+      <data key="v_author">Papageorgiou, C.; Oren, Michael; Poggio, Tomaso</data>
+      <data key="v_title">ICCV - A general framework for object detection</data>
+      <data key="v_year">-2147483648</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">10.1023/b:visi.0000013087.49260.fb</data>
+      <data key="v_author">Viola, Paul A.; Jones, Michael</data>
+      <data key="v_title">Robust Real-Time Face Detection</data>
+      <data key="v_year">2004</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">10.1007/978-3-319-10602-1_26</data>
+      <data key="v_author">Zitnick, C. Lawrence; Dollár, Piotr</data>
+      <data key="v_title">ECCV (5) - Edge Boxes: Locating Object Proposals from Edges</data>
+      <data key="v_year">2014</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">10.1007/s11263-015-0816-y</data>
+      <data key="v_author">Russakovsky, Olga; Deng, Jia; Su, Hao; Krause, Jonathan; Satheesh, Sanjeev; Ma, Sean; Huang, Zhiheng; Karpathy, Andrej; Khosla, Aditya; Bernstein, Michael S.; Berg, Alexander C.; Fei-Fei, Li</data>
+      <data key="v_title">ImageNet Large Scale Visual Recognition Challenge</data>
+      <data key="v_year">2015</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">10.1109/icra.2015.7139361</data>
+      <data key="v_author">Redmon, Joseph; Angelova, Anelia</data>
+      <data key="v_title">ICRA - Real-time grasp detection using convolutional neural networks</data>
+      <data key="v_year">2015</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">10.1109/cvpr.2014.81</data>
+      <data key="v_author">Girshick, Ross; Donahue, Jeff; Darrell, Trevor; Malik, Jitendra</data>
+      <data key="v_title">Region-Based Convolutional Networks for Accurate Object Detection and Segmentation</data>
+      <data key="v_year">2016</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">10.5244/c.29.5</data>
+      <data key="v_author">Lenc, Karel; Vedaldi, Andrea</data>
+      <data key="v_title">BMVC - R-CNN minus R</data>
+      <data key="v_year">2015</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">10.1109/cvpr.2014.320</data>
+      <data key="v_author">Yan, Junjie; Lei, Zhen; Wen, Longyin; Li, Stan Z.</data>
+      <data key="v_title">CVPR - The Fastest Deformable Part Model for Object Detection</data>
+      <data key="v_year">2014</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">10.1109/cvpr.2014.276</data>
+      <data key="v_author">Erhan, Dumitru; Szegedy, Christian; Toshev, Alexander; Anguelov, Dragomir</data>
+      <data key="v_title">CVPR - Scalable Object Detection Using Deep Neural Networks</data>
+      <data key="v_year">2014</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">10.1109/cvpr.2013.237</data>
+      <data key="v_author">Dean, Thomas; Ruzon, Mark A.; Segal, Mark; Shlens, Jonathon; Vijayanarasimhan, Sudheendra; Yagnik, Jay</data>
+      <data key="v_title">CVPR - Fast, Accurate Detection of 100,000 Object Classes on a Single Machine</data>
+      <data key="v_year">2013</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">10.1109/tpami.2016.2577031</data>
+      <data key="v_author">Ren, Shaoqing; He, Kaiming; Girshick, Ross; Sun, Jian</data>
+      <data key="v_title">Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks</data>
+      <data key="v_year">2016</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">10.1007/978-3-319-10602-1_20</data>
+      <data key="v_author">Dong, Jian; Chen, Qiang; Yan, Shuicheng; Yuille, Alan L.</data>
+      <data key="v_title">ECCV (5) - Towards Unified Object Detection and Semantic Segmentation</data>
+      <data key="v_year">2014</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">10.1109/iccv.2015.135</data>
+      <data key="v_author">Gidaris, Spyros; Komodakis, Nikos</data>
+      <data key="v_title">ICCV - Object Detection via a Multi-region and Semantic Segmentation-Aware CNN Model</data>
+      <data key="v_year">2015</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">10.1007/978-3-319-10584-0_20</data>
+      <data key="v_author">Hariharan, Bharath; Arbeláez, Pablo; Girshick, Ross; Malik, Jitendra</data>
+      <data key="v_title">ECCV (7) - Simultaneous Detection and Segmentation</data>
+      <data key="v_year">2014</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">10.1007/978-3-319-10590-1_5</data>
+      <data key="v_author">Sadeghi, Mohammad Amin; Forsyth, David</data>
+      <data key="v_title">ECCV (1) - 30Hz Object Detection with DPM V5</data>
+      <data key="v_year">2014</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">10.1109/iccv.2015.169</data>
+      <data key="v_author">Girshick, Ross</data>
+      <data key="v_title">ICCV - Fast R-CNN</data>
+      <data key="v_year">2015</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">10.1109/iccv.1999.790410</data>
+      <data key="v_author">Lowe, David G.</data>
+      <data key="v_title">ICCV - Object recognition from local scale-invariant features</data>
+      <data key="v_year">1999</data>
+    </node>
+    <edge source="n0" target="n1">
+    </edge>
+    <edge source="n0" target="n2">
+    </edge>
+    <edge source="n0" target="n3">
+    </edge>
+    <edge source="n0" target="n4">
+    </edge>
+    <edge source="n0" target="n5">
+    </edge>
+    <edge source="n0" target="n6">
+    </edge>
+    <edge source="n0" target="n7">
+    </edge>
+    <edge source="n0" target="n8">
+    </edge>
+    <edge source="n0" target="n9">
+    </edge>
+    <edge source="n0" target="n10">
+    </edge>
+    <edge source="n0" target="n11">
+    </edge>
+    <edge source="n0" target="n12">
+    </edge>
+    <edge source="n0" target="n13">
+    </edge>
+    <edge source="n0" target="n14">
+    </edge>
+    <edge source="n0" target="n15">
+    </edge>
+    <edge source="n0" target="n16">
+    </edge>
+    <edge source="n0" target="n17">
+    </edge>
+    <edge source="n0" target="n18">
+    </edge>
+    <edge source="n0" target="n19">
+    </edge>
+    <edge source="n0" target="n20">
+    </edge>
+    <edge source="n0" target="n21">
+    </edge>
+    <edge source="n0" target="n22">
+    </edge>
+    <edge source="n0" target="n23">
+    </edge>
+    <edge source="n0" target="n24">
+    </edge>
+    <edge source="n0" target="n25">
+    </edge>
+    <edge source="n0" target="n26">
+    </edge>
+    <edge source="n0" target="n27">
+    </edge>
+    <edge source="n0" target="n28">
+    </edge>
+  </graph>
+</graphml>
